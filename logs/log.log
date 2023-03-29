@@ -1,0 +1,2737 @@
+2023-03-21 22:58:33,016 - [test_register.py-->line:35] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-21 22:58:33,149 - [test_register.py-->line:35] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-21 22:58:33,273 - [test_register.py-->line:30] - ERROR: 用例--【账号已存在】--执行失败
+2023-03-21 22:58:33,273 - [test_register.py-->line:32] - ERROR: 1 != 2
+2023-03-21 22:58:33,379 - [test_register.py-->line:35] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-21 22:58:33,479 - [test_register.py-->line:35] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-21 22:58:33,574 - [test_register.py-->line:35] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-21 22:58:33,698 - [test_register.py-->line:35] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-21 22:58:33,797 - [test_register.py-->line:35] - ERROR: 用例--【密码为空】--执行通过
+2023-03-21 22:58:33,898 - [test_register.py-->line:35] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-21 22:58:34,013 - [test_register.py-->line:35] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-21 22:58:34,131 - [test_register.py-->line:35] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-21 22:58:34,245 - [test_register.py-->line:35] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-21 22:58:34,358 - [test_register.py-->line:30] - ERROR: 用例--【手机号为字符串类型】--执行失败
+2023-03-21 22:58:34,358 - [test_register.py-->line:32] - ERROR: '类型错误' != '无效的手机格式'
+- 类型错误
++ 无效的手机格式
+
+2023-03-21 23:07:11,436 - [test_register.py-->line:35] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-21 23:07:11,565 - [test_register.py-->line:35] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-21 23:07:11,695 - [test_register.py-->line:35] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-21 23:07:11,790 - [test_register.py-->line:35] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-21 23:07:11,916 - [test_register.py-->line:35] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-21 23:07:12,032 - [test_register.py-->line:35] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-21 23:07:12,133 - [test_register.py-->line:35] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-21 23:07:12,233 - [test_register.py-->line:35] - ERROR: 用例--【密码为空】--执行通过
+2023-03-21 23:07:12,348 - [test_register.py-->line:35] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-21 23:07:12,445 - [test_register.py-->line:35] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-21 23:07:12,545 - [test_register.py-->line:35] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-21 23:07:12,653 - [test_register.py-->line:35] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-21 23:07:12,766 - [test_register.py-->line:35] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-21 23:10:26,685 - [test_register.py-->line:37] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-21 23:10:26,803 - [test_register.py-->line:37] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-21 23:10:26,911 - [test_register.py-->line:37] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-21 23:10:27,010 - [test_register.py-->line:37] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-21 23:10:27,125 - [test_register.py-->line:37] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-21 23:10:27,224 - [test_register.py-->line:37] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-21 23:10:27,344 - [test_register.py-->line:37] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-21 23:10:27,443 - [test_register.py-->line:37] - ERROR: 用例--【密码为空】--执行通过
+2023-03-21 23:10:27,543 - [test_register.py-->line:37] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-21 23:10:27,639 - [test_register.py-->line:37] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-21 23:10:27,742 - [test_register.py-->line:37] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-21 23:10:27,845 - [test_register.py-->line:37] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-21 23:10:27,944 - [test_register.py-->line:37] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-22 21:01:39,215 - [test_recharge.py-->line:45] - ERROR: 用例--【充值成功】--执行失败
+2023-03-22 21:01:39,221 - [test_recharge.py-->line:46] - ERROR: 'ok' != 'OK'
+- ok
++ OK
+
+2023-03-22 21:01:39,352 - [test_recharge.py-->line:45] - ERROR: 用例--【id错误】--执行失败
+2023-03-22 21:01:39,352 - [test_recharge.py-->line:46] - ERROR: 0 != 1007
+2023-03-22 21:01:39,467 - [test_recharge.py-->line:45] - ERROR: 用例--【不输入id】--执行失败
+2023-03-22 21:01:39,467 - [test_recharge.py-->line:46] - ERROR: 0 != 1
+2023-03-22 21:01:39,578 - [test_recharge.py-->line:45] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-22 21:01:39,578 - [test_recharge.py-->line:46] - ERROR: 0 != 2
+2023-03-22 21:01:39,692 - [test_recharge.py-->line:45] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-22 21:01:39,693 - [test_recharge.py-->line:46] - ERROR: 0 != 2
+2023-03-22 21:01:39,816 - [test_recharge.py-->line:45] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-22 21:01:39,817 - [test_recharge.py-->line:46] - ERROR: 0 != 2
+2023-03-22 21:01:39,931 - [test_recharge.py-->line:45] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-22 21:01:39,932 - [test_recharge.py-->line:46] - ERROR: 0 != 2
+2023-03-22 21:01:40,035 - [test_recharge.py-->line:45] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-22 21:01:40,036 - [test_recharge.py-->line:46] - ERROR: 0 != 2
+2023-03-22 21:01:40,158 - [test_register.py-->line:32] - ERROR: 用例--【注册成功-带用户名】--执行失败
+2023-03-22 21:01:40,159 - [test_register.py-->line:34] - ERROR: 0 != 2
+2023-03-22 21:01:40,289 - [test_register.py-->line:32] - ERROR: 用例--【注册成功-不带用户名】--执行失败
+2023-03-22 21:01:40,289 - [test_register.py-->line:34] - ERROR: 0 != 2
+2023-03-22 21:01:40,401 - [test_register.py-->line:37] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-22 21:01:40,497 - [test_register.py-->line:37] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-22 21:01:40,591 - [test_register.py-->line:37] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-22 21:01:40,688 - [test_register.py-->line:37] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-22 21:01:40,784 - [test_register.py-->line:37] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-22 21:01:40,890 - [test_register.py-->line:37] - ERROR: 用例--【密码为空】--执行通过
+2023-03-22 21:01:41,002 - [test_register.py-->line:37] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-22 21:01:41,110 - [test_register.py-->line:37] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-22 21:01:41,213 - [test_register.py-->line:37] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-22 21:01:41,308 - [test_register.py-->line:37] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-22 21:01:41,422 - [test_register.py-->line:37] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-22 21:03:32,727 - [test_recharge.py-->line:47] - ERROR: 用例--【充值成功】--执行失败
+2023-03-22 21:03:32,727 - [test_recharge.py-->line:48] - ERROR: 'ok' != 'OK'
+- ok
++ OK
+
+2023-03-22 21:03:32,829 - [test_recharge.py-->line:47] - ERROR: 用例--【id错误】--执行失败
+2023-03-22 21:03:32,829 - [test_recharge.py-->line:48] - ERROR: 0 != 1007
+2023-03-22 21:03:32,928 - [test_recharge.py-->line:47] - ERROR: 用例--【不输入id】--执行失败
+2023-03-22 21:03:32,928 - [test_recharge.py-->line:48] - ERROR: 0 != 1
+2023-03-22 21:03:33,038 - [test_recharge.py-->line:47] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-22 21:03:33,038 - [test_recharge.py-->line:48] - ERROR: 0 != 2
+2023-03-22 21:03:33,145 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-22 21:03:33,145 - [test_recharge.py-->line:48] - ERROR: 0 != 2
+2023-03-22 21:03:33,243 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-22 21:03:33,243 - [test_recharge.py-->line:48] - ERROR: 0 != 2
+2023-03-22 21:03:33,339 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-22 21:03:33,339 - [test_recharge.py-->line:48] - ERROR: 0 != 2
+2023-03-22 21:03:33,451 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-22 21:03:33,451 - [test_recharge.py-->line:48] - ERROR: 0 != 2
+2023-03-22 21:03:33,582 - [test_register.py-->line:32] - ERROR: 用例--【注册成功-带用户名】--执行失败
+2023-03-22 21:03:33,582 - [test_register.py-->line:34] - ERROR: 0 != 2
+2023-03-22 21:03:33,722 - [test_register.py-->line:32] - ERROR: 用例--【注册成功-不带用户名】--执行失败
+2023-03-22 21:03:33,722 - [test_register.py-->line:34] - ERROR: 0 != 2
+2023-03-22 21:03:33,853 - [test_register.py-->line:37] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-22 21:03:33,967 - [test_register.py-->line:37] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-22 21:03:34,061 - [test_register.py-->line:37] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-22 21:03:34,153 - [test_register.py-->line:37] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-22 21:03:34,246 - [test_register.py-->line:37] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-22 21:03:34,371 - [test_register.py-->line:37] - ERROR: 用例--【密码为空】--执行通过
+2023-03-22 21:03:34,469 - [test_register.py-->line:37] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-22 21:03:34,567 - [test_register.py-->line:37] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-22 21:03:34,685 - [test_register.py-->line:37] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-22 21:03:34,799 - [test_register.py-->line:37] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-22 21:03:34,896 - [test_register.py-->line:37] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-22 21:06:03,369 - [test_recharge.py-->line:51] - ERROR: 用例--【充值成功】--执行成功
+2023-03-22 21:06:03,486 - [test_recharge.py-->line:51] - ERROR: 用例--【id错误】--执行成功
+2023-03-22 21:06:03,600 - [test_recharge.py-->line:51] - ERROR: 用例--【不输入id】--执行成功
+2023-03-22 21:06:03,704 - [test_recharge.py-->line:51] - ERROR: 用例--【不输入金额】--执行成功
+2023-03-22 21:06:03,820 - [test_recharge.py-->line:51] - ERROR: 用例--【充值金额为负数】--执行成功
+2023-03-22 21:06:03,933 - [test_recharge.py-->line:51] - ERROR: 用例--【充值金额为500001】--执行成功
+2023-03-22 21:06:04,059 - [test_recharge.py-->line:51] - ERROR: 用例--【充值金额非数字】--执行成功
+2023-03-22 21:06:04,157 - [test_recharge.py-->line:51] - ERROR: 用例--【充值金额小数点3位】--执行成功
+2023-03-22 21:06:04,266 - [test_register.py-->line:32] - ERROR: 用例--【注册成功-带用户名】--执行失败
+2023-03-22 21:06:04,266 - [test_register.py-->line:34] - ERROR: 0 != 2
+2023-03-22 21:06:04,378 - [test_register.py-->line:32] - ERROR: 用例--【注册成功-不带用户名】--执行失败
+2023-03-22 21:06:04,378 - [test_register.py-->line:34] - ERROR: 0 != 2
+2023-03-22 21:06:04,505 - [test_register.py-->line:37] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-22 21:06:04,598 - [test_register.py-->line:37] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-22 21:06:04,717 - [test_register.py-->line:37] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-22 21:06:04,829 - [test_register.py-->line:37] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-22 21:06:04,927 - [test_register.py-->line:37] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-22 21:06:05,038 - [test_register.py-->line:37] - ERROR: 用例--【密码为空】--执行通过
+2023-03-22 21:06:05,154 - [test_register.py-->line:37] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-22 21:06:05,250 - [test_register.py-->line:37] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-22 21:06:05,348 - [test_register.py-->line:37] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-22 21:06:05,459 - [test_register.py-->line:37] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-22 21:06:05,571 - [test_register.py-->line:37] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-22 21:20:58,194 - [test_recharge.py-->line:51] - ERROR: 用例--【充值成功】--执行成功
+2023-03-22 21:20:58,287 - [test_recharge.py-->line:51] - ERROR: 用例--【id错误】--执行成功
+2023-03-22 21:20:58,401 - [test_recharge.py-->line:51] - ERROR: 用例--【不输入id】--执行成功
+2023-03-22 21:20:58,506 - [test_recharge.py-->line:47] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-22 21:20:58,506 - [test_recharge.py-->line:48] - ERROR: 1 != 2
+2023-03-22 21:20:58,608 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-22 21:20:58,608 - [test_recharge.py-->line:48] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-22 21:20:58,720 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-22 21:20:58,720 - [test_recharge.py-->line:48] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-22 21:20:58,825 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-22 21:20:58,825 - [test_recharge.py-->line:48] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-22 21:20:58,935 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-22 21:20:58,935 - [test_recharge.py-->line:48] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-22 21:20:59,056 - [test_register.py-->line:40] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-22 21:20:59,190 - [test_register.py-->line:40] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-22 21:20:59,322 - [test_register.py-->line:40] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-22 21:20:59,435 - [test_register.py-->line:40] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-22 21:20:59,543 - [test_register.py-->line:40] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-22 21:20:59,657 - [test_register.py-->line:40] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-22 21:20:59,794 - [test_register.py-->line:40] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-22 21:20:59,894 - [test_register.py-->line:40] - ERROR: 用例--【密码为空】--执行通过
+2023-03-22 21:20:59,994 - [test_register.py-->line:40] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-22 21:21:00,108 - [test_register.py-->line:40] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-22 21:21:00,206 - [test_register.py-->line:40] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-22 21:21:00,306 - [test_register.py-->line:40] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-22 21:21:00,400 - [test_register.py-->line:40] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-22 21:32:04,247 - [test_recharge.py-->line:51] - ERROR: 用例--【充值成功】--执行成功
+2023-03-22 21:32:04,362 - [test_recharge.py-->line:51] - ERROR: 用例--【id错误】--执行成功
+2023-03-22 21:32:04,471 - [test_recharge.py-->line:51] - ERROR: 用例--【不输入id】--执行成功
+2023-03-22 21:32:04,572 - [test_recharge.py-->line:47] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-22 21:32:04,572 - [test_recharge.py-->line:48] - ERROR: 1 != 2
+2023-03-22 21:32:04,674 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-22 21:32:04,674 - [test_recharge.py-->line:48] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-22 21:32:04,786 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-22 21:32:04,786 - [test_recharge.py-->line:48] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-22 21:32:04,907 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-22 21:32:04,907 - [test_recharge.py-->line:48] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-22 21:32:05,025 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-22 21:32:05,025 - [test_recharge.py-->line:48] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-22 21:32:05,162 - [test_register.py-->line:42] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-22 21:32:05,284 - [test_register.py-->line:42] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-22 21:32:05,415 - [test_register.py-->line:42] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-22 21:32:05,518 - [test_register.py-->line:42] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-22 21:32:05,618 - [test_register.py-->line:42] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-22 21:32:05,717 - [test_register.py-->line:42] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-22 21:32:05,812 - [test_register.py-->line:42] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-22 21:32:05,911 - [test_register.py-->line:42] - ERROR: 用例--【密码为空】--执行通过
+2023-03-22 21:32:06,006 - [test_register.py-->line:42] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-22 21:32:06,104 - [test_register.py-->line:42] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-22 21:32:06,199 - [test_register.py-->line:42] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-22 21:32:06,307 - [test_register.py-->line:42] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-22 21:32:06,425 - [test_register.py-->line:42] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-22 21:32:59,701 - [test_recharge.py-->line:51] - ERROR: 用例--【充值成功】--执行成功
+2023-03-22 21:32:59,797 - [test_recharge.py-->line:51] - ERROR: 用例--【id错误】--执行成功
+2023-03-22 21:32:59,892 - [test_recharge.py-->line:51] - ERROR: 用例--【不输入id】--执行成功
+2023-03-22 21:32:59,988 - [test_recharge.py-->line:47] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-22 21:32:59,988 - [test_recharge.py-->line:48] - ERROR: 1 != 2
+2023-03-22 21:33:00,086 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-22 21:33:00,086 - [test_recharge.py-->line:48] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-22 21:33:00,197 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-22 21:33:00,197 - [test_recharge.py-->line:48] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-22 21:33:00,315 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-22 21:33:00,315 - [test_recharge.py-->line:48] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-22 21:33:00,418 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-22 21:33:00,418 - [test_recharge.py-->line:48] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-22 21:33:00,553 - [test_register.py-->line:42] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-22 21:33:00,683 - [test_register.py-->line:42] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-22 21:33:00,813 - [test_register.py-->line:42] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-22 21:33:00,909 - [test_register.py-->line:42] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-22 21:33:01,027 - [test_register.py-->line:42] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-22 21:33:01,122 - [test_register.py-->line:42] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-22 21:33:01,224 - [test_register.py-->line:42] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-22 21:33:01,332 - [test_register.py-->line:42] - ERROR: 用例--【密码为空】--执行通过
+2023-03-22 21:33:01,451 - [test_register.py-->line:42] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-22 21:33:01,559 - [test_register.py-->line:42] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-22 21:33:01,659 - [test_register.py-->line:42] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-22 21:33:01,761 - [test_register.py-->line:42] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-22 21:33:01,873 - [test_register.py-->line:42] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-22 21:33:34,206 - [test_recharge.py-->line:51] - ERROR: 用例--【充值成功】--执行成功
+2023-03-22 21:33:34,319 - [test_recharge.py-->line:51] - ERROR: 用例--【id错误】--执行成功
+2023-03-22 21:33:34,431 - [test_recharge.py-->line:51] - ERROR: 用例--【不输入id】--执行成功
+2023-03-22 21:33:34,538 - [test_recharge.py-->line:47] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-22 21:33:34,538 - [test_recharge.py-->line:48] - ERROR: 1 != 2
+2023-03-22 21:33:34,648 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-22 21:33:34,648 - [test_recharge.py-->line:48] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-22 21:33:34,765 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-22 21:33:34,765 - [test_recharge.py-->line:48] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-22 21:33:34,879 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-22 21:33:34,879 - [test_recharge.py-->line:48] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-22 21:33:34,973 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-22 21:33:34,973 - [test_recharge.py-->line:48] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-22 21:33:35,092 - [test_register.py-->line:42] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-22 21:33:35,231 - [test_register.py-->line:42] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-22 21:33:35,352 - [test_register.py-->line:42] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-22 21:33:35,455 - [test_register.py-->line:42] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-22 21:33:35,569 - [test_register.py-->line:42] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-22 21:33:35,667 - [test_register.py-->line:42] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-22 21:33:35,776 - [test_register.py-->line:42] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-22 21:33:35,882 - [test_register.py-->line:42] - ERROR: 用例--【密码为空】--执行通过
+2023-03-22 21:33:35,998 - [test_register.py-->line:42] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-22 21:33:36,115 - [test_register.py-->line:42] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-22 21:33:36,246 - [test_register.py-->line:42] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-22 21:33:36,368 - [test_register.py-->line:42] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-22 21:33:36,490 - [test_register.py-->line:42] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-22 21:35:01,798 - [test_recharge.py-->line:51] - ERROR: 用例--【充值成功】--执行成功
+2023-03-22 21:35:01,894 - [test_recharge.py-->line:51] - ERROR: 用例--【id错误】--执行成功
+2023-03-22 21:35:02,002 - [test_recharge.py-->line:51] - ERROR: 用例--【不输入id】--执行成功
+2023-03-22 21:35:02,114 - [test_recharge.py-->line:47] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-22 21:35:02,114 - [test_recharge.py-->line:48] - ERROR: 1 != 2
+2023-03-22 21:35:02,221 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-22 21:35:02,221 - [test_recharge.py-->line:48] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-22 21:35:02,323 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-22 21:35:02,323 - [test_recharge.py-->line:48] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-22 21:35:02,421 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-22 21:35:02,421 - [test_recharge.py-->line:48] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-22 21:35:02,536 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-22 21:35:02,536 - [test_recharge.py-->line:48] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-22 21:35:02,675 - [test_register.py-->line:42] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-22 21:35:02,798 - [test_register.py-->line:42] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-22 21:35:02,924 - [test_register.py-->line:42] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-22 21:35:03,027 - [test_register.py-->line:42] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-22 21:35:03,126 - [test_register.py-->line:42] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-22 21:35:03,242 - [test_register.py-->line:42] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-22 21:35:03,345 - [test_register.py-->line:42] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-22 21:35:03,441 - [test_register.py-->line:42] - ERROR: 用例--【密码为空】--执行通过
+2023-03-22 21:35:03,550 - [test_register.py-->line:42] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-22 21:35:03,659 - [test_register.py-->line:42] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-22 21:35:03,755 - [test_register.py-->line:42] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-22 21:35:03,870 - [test_register.py-->line:42] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-22 21:35:03,984 - [test_register.py-->line:42] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-22 21:35:39,078 - [test_login.py-->line:30] - ERROR: --用力【登录成功】--执行失败
+2023-03-22 21:35:39,079 - [test_login.py-->line:31] - ERROR: {'code': 0, 'msg': 'OK'} not in {'code': 1004, 'msg': 'Required request body is missing: public com.lemon.pojo.Result com.lemon.controller.MemberController.login(com.lemon.pojo.dto.MemberLoginDto)', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:35:39,201 - [test_login.py-->line:30] - ERROR: --用力【不填用户名】--执行失败
+2023-03-22 21:35:39,201 - [test_login.py-->line:31] - ERROR: {'code': 1, 'msg': '手机号为空'} not in {'code': 1004, 'msg': 'Required request body is missing: public com.lemon.pojo.Result com.lemon.controller.MemberController.login(com.lemon.pojo.dto.MemberLoginDto)', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:35:39,320 - [test_login.py-->line:30] - ERROR: --用力【用户名不足】--执行失败
+2023-03-22 21:35:39,320 - [test_login.py-->line:31] - ERROR: {'code': 2, 'msg': '无效的手机格式'} not in {'code': 1004, 'msg': 'Required request body is missing: public com.lemon.pojo.Result com.lemon.controller.MemberController.login(com.lemon.pojo.dto.MemberLoginDto)', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:35:39,444 - [test_login.py-->line:30] - ERROR: --用力【用户名超过】--执行失败
+2023-03-22 21:35:39,444 - [test_login.py-->line:31] - ERROR: {'code': 2, 'msg': '无效的手机格式'} not in {'code': 1004, 'msg': 'Required request body is missing: public com.lemon.pojo.Result com.lemon.controller.MemberController.login(com.lemon.pojo.dto.MemberLoginDto)', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:35:39,564 - [test_login.py-->line:30] - ERROR: --用力【用户名特殊字符】--执行失败
+2023-03-22 21:35:39,564 - [test_login.py-->line:31] - ERROR: {'code': 2, 'msg': '无效的手机格式'} not in {'code': 1004, 'msg': 'Required request body is missing: public com.lemon.pojo.Result com.lemon.controller.MemberController.login(com.lemon.pojo.dto.MemberLoginDto)', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:35:39,662 - [test_login.py-->line:30] - ERROR: --用力【不输密码】--执行失败
+2023-03-22 21:35:39,662 - [test_login.py-->line:31] - ERROR: {'code': 1, 'msg': '密码为空'} not in {'code': 1004, 'msg': 'Required request body is missing: public com.lemon.pojo.Result com.lemon.controller.MemberController.login(com.lemon.pojo.dto.MemberLoginDto)', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:35:39,763 - [test_login.py-->line:30] - ERROR: --用力【密码小于】--执行失败
+2023-03-22 21:35:39,763 - [test_login.py-->line:31] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1004, 'msg': 'Required request body is missing: public com.lemon.pojo.Result com.lemon.controller.MemberController.login(com.lemon.pojo.dto.MemberLoginDto)', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:35:39,887 - [test_login.py-->line:30] - ERROR: --用力【密码大于】--执行失败
+2023-03-22 21:35:39,887 - [test_login.py-->line:31] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1004, 'msg': 'Required request body is missing: public com.lemon.pojo.Result com.lemon.controller.MemberController.login(com.lemon.pojo.dto.MemberLoginDto)', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:35:39,981 - [test_login.py-->line:30] - ERROR: --用力【密码特殊字符】--执行失败
+2023-03-22 21:35:39,981 - [test_login.py-->line:31] - ERROR: {'code': 2, 'msg': '密码格式错误'} not in {'code': 1004, 'msg': 'Required request body is missing: public com.lemon.pojo.Result com.lemon.controller.MemberController.login(com.lemon.pojo.dto.MemberLoginDto)', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:35:40,222 - [test_recharge.py-->line:51] - ERROR: 用例--【充值成功】--执行成功
+2023-03-22 21:35:40,342 - [test_recharge.py-->line:51] - ERROR: 用例--【id错误】--执行成功
+2023-03-22 21:35:40,461 - [test_recharge.py-->line:51] - ERROR: 用例--【不输入id】--执行成功
+2023-03-22 21:35:40,573 - [test_recharge.py-->line:47] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-22 21:35:40,573 - [test_recharge.py-->line:48] - ERROR: 1 != 2
+2023-03-22 21:35:40,675 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-22 21:35:40,675 - [test_recharge.py-->line:48] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-22 21:35:40,773 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-22 21:35:40,773 - [test_recharge.py-->line:48] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-22 21:35:40,882 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-22 21:35:40,883 - [test_recharge.py-->line:48] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-22 21:35:40,999 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-22 21:35:40,999 - [test_recharge.py-->line:48] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-22 21:35:41,131 - [test_register.py-->line:42] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-22 21:35:41,246 - [test_register.py-->line:42] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-22 21:35:41,361 - [test_register.py-->line:42] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-22 21:35:41,457 - [test_register.py-->line:42] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-22 21:35:41,569 - [test_register.py-->line:42] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-22 21:35:41,675 - [test_register.py-->line:42] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-22 21:35:41,775 - [test_register.py-->line:42] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-22 21:35:41,870 - [test_register.py-->line:42] - ERROR: 用例--【密码为空】--执行通过
+2023-03-22 21:35:41,981 - [test_register.py-->line:42] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-22 21:35:42,097 - [test_register.py-->line:42] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-22 21:35:42,213 - [test_register.py-->line:42] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-22 21:35:42,326 - [test_register.py-->line:42] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-22 21:35:42,440 - [test_register.py-->line:42] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-22 21:37:57,667 - [test_login.py-->line:31] - ERROR: --用力【登录成功】--执行失败
+2023-03-22 21:37:57,667 - [test_login.py-->line:32] - ERROR: {'code': 0, 'msg': 'OK'} not in {'code': 1004, 'msg': 'Required request body is missing: public com.lemon.pojo.Result com.lemon.controller.MemberController.login(com.lemon.pojo.dto.MemberLoginDto)', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:37:57,828 - [test_login.py-->line:31] - ERROR: --用力【不填用户名】--执行失败
+2023-03-22 21:37:57,828 - [test_login.py-->line:32] - ERROR: {'code': 1, 'msg': '手机号为空'} not in {'code': 1004, 'msg': 'Required request body is missing: public com.lemon.pojo.Result com.lemon.controller.MemberController.login(com.lemon.pojo.dto.MemberLoginDto)', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:37:57,934 - [test_login.py-->line:31] - ERROR: --用力【用户名不足】--执行失败
+2023-03-22 21:37:57,934 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '无效的手机格式'} not in {'code': 1004, 'msg': 'Required request body is missing: public com.lemon.pojo.Result com.lemon.controller.MemberController.login(com.lemon.pojo.dto.MemberLoginDto)', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:37:58,052 - [test_login.py-->line:31] - ERROR: --用力【用户名超过】--执行失败
+2023-03-22 21:37:58,053 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '无效的手机格式'} not in {'code': 1004, 'msg': 'Required request body is missing: public com.lemon.pojo.Result com.lemon.controller.MemberController.login(com.lemon.pojo.dto.MemberLoginDto)', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:37:58,173 - [test_login.py-->line:31] - ERROR: --用力【用户名特殊字符】--执行失败
+2023-03-22 21:37:58,173 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '无效的手机格式'} not in {'code': 1004, 'msg': 'Required request body is missing: public com.lemon.pojo.Result com.lemon.controller.MemberController.login(com.lemon.pojo.dto.MemberLoginDto)', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:37:58,297 - [test_login.py-->line:31] - ERROR: --用力【不输密码】--执行失败
+2023-03-22 21:37:58,297 - [test_login.py-->line:32] - ERROR: {'code': 1, 'msg': '密码为空'} not in {'code': 1004, 'msg': 'Required request body is missing: public com.lemon.pojo.Result com.lemon.controller.MemberController.login(com.lemon.pojo.dto.MemberLoginDto)', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:37:58,414 - [test_login.py-->line:31] - ERROR: --用力【密码小于】--执行失败
+2023-03-22 21:37:58,414 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1004, 'msg': 'Required request body is missing: public com.lemon.pojo.Result com.lemon.controller.MemberController.login(com.lemon.pojo.dto.MemberLoginDto)', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:37:58,521 - [test_login.py-->line:31] - ERROR: --用力【密码大于】--执行失败
+2023-03-22 21:37:58,521 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1004, 'msg': 'Required request body is missing: public com.lemon.pojo.Result com.lemon.controller.MemberController.login(com.lemon.pojo.dto.MemberLoginDto)', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:37:58,649 - [test_login.py-->line:31] - ERROR: --用力【密码特殊字符】--执行失败
+2023-03-22 21:37:58,650 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式错误'} not in {'code': 1004, 'msg': 'Required request body is missing: public com.lemon.pojo.Result com.lemon.controller.MemberController.login(com.lemon.pojo.dto.MemberLoginDto)', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:41:50,761 - [test_login.py-->line:35] - ERROR: --用力【登录成功】--执行成功
+2023-03-22 21:41:50,873 - [test_login.py-->line:31] - ERROR: --用力【不填用户名】--执行失败
+2023-03-22 21:41:50,874 - [test_login.py-->line:32] - ERROR: {'code': 1, 'msg': '手机号为空'} not in {'code': 1, 'msg': '手机号码为空', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:41:51,022 - [test_login.py-->line:35] - ERROR: --用力【用户名不足】--执行成功
+2023-03-22 21:41:51,121 - [test_login.py-->line:35] - ERROR: --用力【用户名超过】--执行成功
+2023-03-22 21:41:51,217 - [test_login.py-->line:35] - ERROR: --用力【用户名特殊字符】--执行成功
+2023-03-22 21:41:51,334 - [test_login.py-->line:35] - ERROR: --用力【不输密码】--执行成功
+2023-03-22 21:41:51,452 - [test_login.py-->line:31] - ERROR: --用力【密码小于】--执行失败
+2023-03-22 21:41:51,452 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:41:51,585 - [test_login.py-->line:31] - ERROR: --用力【密码大于】--执行失败
+2023-03-22 21:41:51,585 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:41:51,719 - [test_login.py-->line:31] - ERROR: --用力【密码特殊字符】--执行失败
+2023-03-22 21:41:51,719 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式错误'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:42:00,329 - [test_login.py-->line:35] - ERROR: --用力【登录成功】--执行成功
+2023-03-22 21:42:00,426 - [test_login.py-->line:31] - ERROR: --用力【不填用户名】--执行失败
+2023-03-22 21:42:00,426 - [test_login.py-->line:32] - ERROR: {'code': 1, 'msg': '手机号为空'} not in {'code': 1, 'msg': '手机号码为空', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:42:00,598 - [test_login.py-->line:35] - ERROR: --用力【用户名不足】--执行成功
+2023-03-22 21:42:00,693 - [test_login.py-->line:35] - ERROR: --用力【用户名超过】--执行成功
+2023-03-22 21:42:00,811 - [test_login.py-->line:35] - ERROR: --用力【用户名特殊字符】--执行成功
+2023-03-22 21:42:00,923 - [test_login.py-->line:35] - ERROR: --用力【不输密码】--执行成功
+2023-03-22 21:42:01,034 - [test_login.py-->line:31] - ERROR: --用力【密码小于】--执行失败
+2023-03-22 21:42:01,035 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:42:01,176 - [test_login.py-->line:31] - ERROR: --用力【密码大于】--执行失败
+2023-03-22 21:42:01,176 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:42:01,308 - [test_login.py-->line:31] - ERROR: --用力【密码特殊字符】--执行失败
+2023-03-22 21:42:01,308 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式错误'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:42:06,809 - [test_login.py-->line:35] - ERROR: --用力【登录成功】--执行成功
+2023-03-22 21:42:06,927 - [test_login.py-->line:31] - ERROR: --用力【不填用户名】--执行失败
+2023-03-22 21:42:06,928 - [test_login.py-->line:32] - ERROR: {'code': 1, 'msg': '手机号为空'} not in {'code': 1, 'msg': '手机号码为空', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:42:07,029 - [test_login.py-->line:35] - ERROR: --用力【用户名不足】--执行成功
+2023-03-22 21:42:07,137 - [test_login.py-->line:35] - ERROR: --用力【用户名超过】--执行成功
+2023-03-22 21:42:07,251 - [test_login.py-->line:35] - ERROR: --用力【用户名特殊字符】--执行成功
+2023-03-22 21:42:07,346 - [test_login.py-->line:35] - ERROR: --用力【不输密码】--执行成功
+2023-03-22 21:42:07,456 - [test_login.py-->line:31] - ERROR: --用力【密码小于】--执行失败
+2023-03-22 21:42:07,456 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:42:07,563 - [test_login.py-->line:31] - ERROR: --用力【密码大于】--执行失败
+2023-03-22 21:42:07,563 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:42:07,674 - [test_login.py-->line:31] - ERROR: --用力【密码特殊字符】--执行失败
+2023-03-22 21:42:07,675 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式错误'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 21:42:07,901 - [test_recharge.py-->line:51] - ERROR: 用例--【充值成功】--执行成功
+2023-03-22 21:42:08,012 - [test_recharge.py-->line:51] - ERROR: 用例--【id错误】--执行成功
+2023-03-22 21:42:08,120 - [test_recharge.py-->line:51] - ERROR: 用例--【不输入id】--执行成功
+2023-03-22 21:42:08,225 - [test_recharge.py-->line:47] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-22 21:42:08,225 - [test_recharge.py-->line:48] - ERROR: 1 != 2
+2023-03-22 21:42:08,321 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-22 21:42:08,321 - [test_recharge.py-->line:48] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-22 21:42:08,434 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-22 21:42:08,434 - [test_recharge.py-->line:48] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-22 21:42:08,531 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-22 21:42:08,531 - [test_recharge.py-->line:48] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-22 21:42:08,629 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-22 21:42:08,629 - [test_recharge.py-->line:48] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-22 21:42:08,778 - [test_register.py-->line:42] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-22 21:42:08,903 - [test_register.py-->line:42] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-22 21:42:09,025 - [test_register.py-->line:42] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-22 21:42:09,127 - [test_register.py-->line:42] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-22 21:42:09,226 - [test_register.py-->line:42] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-22 21:42:09,341 - [test_register.py-->line:42] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-22 21:42:09,440 - [test_register.py-->line:42] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-22 21:42:09,534 - [test_register.py-->line:42] - ERROR: 用例--【密码为空】--执行通过
+2023-03-22 21:42:09,643 - [test_register.py-->line:42] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-22 21:42:09,752 - [test_register.py-->line:42] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-22 21:42:09,844 - [test_register.py-->line:42] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-22 21:42:09,957 - [test_register.py-->line:42] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-22 21:42:10,071 - [test_register.py-->line:42] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-22 23:02:00,393 - [test_withdraw.py-->line:54] - ERROR: --用例【提现成功-整数】--执行失败
+2023-03-22 23:02:00,503 - [test_withdraw.py-->line:54] - ERROR: --用例【提现成功-1位小数】--执行失败
+2023-03-22 23:02:00,618 - [test_withdraw.py-->line:54] - ERROR: --用例【提现成功-2位小数】--执行失败
+2023-03-22 23:02:00,746 - [test_withdraw.py-->line:54] - ERROR: --用例【提现成功-50万】--执行失败
+2023-03-22 23:02:00,846 - [test_withdraw.py-->line:54] - ERROR: --用例【会员id为空】--执行失败
+2023-03-22 23:02:00,948 - [test_withdraw.py-->line:54] - ERROR: --用例【会员id为小数】--执行失败
+2023-03-22 23:02:01,052 - [test_withdraw.py-->line:50] - ERROR: --用例【提现金额为0】--执行失败
+2023-03-22 23:02:01,052 - [test_withdraw.py-->line:51] - ERROR: 2 != 0
+2023-03-22 23:02:01,228 - [test_withdraw.py-->line:50] - ERROR: --用例【提现金额为负数】--执行失败
+2023-03-22 23:02:01,228 - [test_withdraw.py-->line:51] - ERROR: '金额必须大于0并且小于或者500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^            ++      +
+
+2023-03-22 23:02:01,355 - [test_withdraw.py-->line:50] - ERROR: --用例【提现金额为空】--执行失败
+2023-03-22 23:02:01,355 - [test_withdraw.py-->line:51] - ERROR: '金额为空' != '余额为空'
+- 金额为空
+? ^
++ 余额为空
+? ^
+
+2023-03-22 23:02:01,481 - [test_withdraw.py-->line:50] - ERROR: --用例【提现金额-3为小数】--执行失败
+2023-03-22 23:02:01,481 - [test_withdraw.py-->line:51] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-22 23:02:01,588 - [test_withdraw.py-->line:50] - ERROR: --用例【提现金额-大于50万】--执行失败
+2023-03-22 23:02:01,588 - [test_withdraw.py-->line:51] - ERROR: '金额必须大于0并且小于或者500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^            ++      +
+
+2023-03-22 23:02:43,794 - [test_login.py-->line:35] - ERROR: --用力【登录成功】--执行成功
+2023-03-22 23:02:43,901 - [test_login.py-->line:35] - ERROR: --用力【不填用户名】--执行成功
+2023-03-22 23:02:44,017 - [test_login.py-->line:35] - ERROR: --用力【用户名不足】--执行成功
+2023-03-22 23:02:44,129 - [test_login.py-->line:35] - ERROR: --用力【用户名超过】--执行成功
+2023-03-22 23:02:44,223 - [test_login.py-->line:35] - ERROR: --用力【用户名特殊字符】--执行成功
+2023-03-22 23:02:44,320 - [test_login.py-->line:35] - ERROR: --用力【不输密码】--执行成功
+2023-03-22 23:02:44,452 - [test_login.py-->line:31] - ERROR: --用力【密码小于】--执行失败
+2023-03-22 23:02:44,452 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 23:02:44,574 - [test_login.py-->line:31] - ERROR: --用力【密码大于】--执行失败
+2023-03-22 23:02:44,574 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 23:02:44,688 - [test_login.py-->line:31] - ERROR: --用力【密码特殊字符】--执行失败
+2023-03-22 23:02:44,689 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式错误'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 23:02:44,922 - [test_recharge.py-->line:51] - ERROR: 用例--【充值成功】--执行成功
+2023-03-22 23:02:45,031 - [test_recharge.py-->line:51] - ERROR: 用例--【id错误】--执行成功
+2023-03-22 23:02:45,136 - [test_recharge.py-->line:51] - ERROR: 用例--【不输入id】--执行成功
+2023-03-22 23:02:45,251 - [test_recharge.py-->line:47] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-22 23:02:45,251 - [test_recharge.py-->line:48] - ERROR: 1 != 2
+2023-03-22 23:02:45,369 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-22 23:02:45,369 - [test_recharge.py-->line:48] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-22 23:02:45,484 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-22 23:02:45,485 - [test_recharge.py-->line:48] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-22 23:02:45,595 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-22 23:02:45,595 - [test_recharge.py-->line:48] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-22 23:02:45,717 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-22 23:02:45,717 - [test_recharge.py-->line:48] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-22 23:02:45,860 - [test_register.py-->line:42] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-22 23:02:45,977 - [test_register.py-->line:42] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-22 23:02:46,111 - [test_register.py-->line:42] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-22 23:02:46,239 - [test_register.py-->line:42] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-22 23:02:46,349 - [test_register.py-->line:42] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-22 23:02:46,445 - [test_register.py-->line:42] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-22 23:02:46,562 - [test_register.py-->line:42] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-22 23:02:46,673 - [test_register.py-->line:42] - ERROR: 用例--【密码为空】--执行通过
+2023-03-22 23:02:46,791 - [test_register.py-->line:42] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-22 23:02:46,885 - [test_register.py-->line:42] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-22 23:02:47,008 - [test_register.py-->line:42] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-22 23:02:47,123 - [test_register.py-->line:42] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-22 23:02:47,239 - [test_register.py-->line:42] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-22 23:02:47,463 - [test_withdraw.py-->line:54] - ERROR: --用例【提现成功-整数】--执行失败
+2023-03-22 23:02:47,575 - [test_withdraw.py-->line:54] - ERROR: --用例【提现成功-1位小数】--执行失败
+2023-03-22 23:02:47,699 - [test_withdraw.py-->line:54] - ERROR: --用例【提现成功-2位小数】--执行失败
+2023-03-22 23:02:47,793 - [test_withdraw.py-->line:50] - ERROR: --用例【提现成功-50万】--执行失败
+2023-03-22 23:02:47,793 - [test_withdraw.py-->line:51] - ERROR: 0 != 1002
+2023-03-22 23:02:47,891 - [test_withdraw.py-->line:54] - ERROR: --用例【会员id为空】--执行失败
+2023-03-22 23:02:48,000 - [test_withdraw.py-->line:54] - ERROR: --用例【会员id为小数】--执行失败
+2023-03-22 23:02:48,121 - [test_withdraw.py-->line:50] - ERROR: --用例【提现金额为0】--执行失败
+2023-03-22 23:02:48,122 - [test_withdraw.py-->line:51] - ERROR: 2 != 0
+2023-03-22 23:02:48,241 - [test_withdraw.py-->line:50] - ERROR: --用例【提现金额为负数】--执行失败
+2023-03-22 23:02:48,241 - [test_withdraw.py-->line:51] - ERROR: '金额必须大于0并且小于或者500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^            ++      +
+
+2023-03-22 23:02:48,350 - [test_withdraw.py-->line:50] - ERROR: --用例【提现金额为空】--执行失败
+2023-03-22 23:02:48,350 - [test_withdraw.py-->line:51] - ERROR: '金额为空' != '余额为空'
+- 金额为空
+? ^
++ 余额为空
+? ^
+
+2023-03-22 23:02:48,456 - [test_withdraw.py-->line:50] - ERROR: --用例【提现金额-3为小数】--执行失败
+2023-03-22 23:02:48,456 - [test_withdraw.py-->line:51] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-22 23:02:48,558 - [test_withdraw.py-->line:50] - ERROR: --用例【提现金额-大于50万】--执行失败
+2023-03-22 23:02:48,558 - [test_withdraw.py-->line:51] - ERROR: '金额必须大于0并且小于或者500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^            ++      +
+
+2023-03-22 23:03:51,548 - [test_login.py-->line:35] - ERROR: --用力【登录成功】--执行成功
+2023-03-22 23:03:51,649 - [test_login.py-->line:35] - ERROR: --用力【不填用户名】--执行成功
+2023-03-22 23:03:51,759 - [test_login.py-->line:35] - ERROR: --用力【用户名不足】--执行成功
+2023-03-22 23:03:51,873 - [test_login.py-->line:35] - ERROR: --用力【用户名超过】--执行成功
+2023-03-22 23:03:51,987 - [test_login.py-->line:35] - ERROR: --用力【用户名特殊字符】--执行成功
+2023-03-22 23:03:52,085 - [test_login.py-->line:35] - ERROR: --用力【不输密码】--执行成功
+2023-03-22 23:03:52,214 - [test_login.py-->line:31] - ERROR: --用力【密码小于】--执行失败
+2023-03-22 23:03:52,215 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 23:03:52,356 - [test_login.py-->line:31] - ERROR: --用力【密码大于】--执行失败
+2023-03-22 23:03:52,356 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 23:03:52,474 - [test_login.py-->line:31] - ERROR: --用力【密码特殊字符】--执行失败
+2023-03-22 23:03:52,475 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式错误'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 23:03:52,708 - [test_recharge.py-->line:51] - ERROR: 用例--【充值成功】--执行成功
+2023-03-22 23:03:52,824 - [test_recharge.py-->line:51] - ERROR: 用例--【id错误】--执行成功
+2023-03-22 23:03:52,934 - [test_recharge.py-->line:51] - ERROR: 用例--【不输入id】--执行成功
+2023-03-22 23:03:53,028 - [test_recharge.py-->line:47] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-22 23:03:53,028 - [test_recharge.py-->line:48] - ERROR: 1 != 2
+2023-03-22 23:03:53,148 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-22 23:03:53,148 - [test_recharge.py-->line:48] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-22 23:03:53,261 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-22 23:03:53,261 - [test_recharge.py-->line:48] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-22 23:03:53,360 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-22 23:03:53,360 - [test_recharge.py-->line:48] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-22 23:03:53,524 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-22 23:03:53,524 - [test_recharge.py-->line:48] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-22 23:03:53,657 - [test_register.py-->line:42] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-22 23:03:53,770 - [test_register.py-->line:42] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-22 23:03:53,885 - [test_register.py-->line:42] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-22 23:03:54,002 - [test_register.py-->line:42] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-22 23:03:54,117 - [test_register.py-->line:42] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-22 23:03:54,238 - [test_register.py-->line:42] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-22 23:03:54,344 - [test_register.py-->line:42] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-22 23:03:54,446 - [test_register.py-->line:42] - ERROR: 用例--【密码为空】--执行通过
+2023-03-22 23:03:54,542 - [test_register.py-->line:42] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-22 23:03:54,660 - [test_register.py-->line:42] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-22 23:03:54,760 - [test_register.py-->line:42] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-22 23:03:54,878 - [test_register.py-->line:42] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-22 23:03:54,972 - [test_register.py-->line:42] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-22 23:03:55,203 - [test_withdraw.py-->line:52] - ERROR: --用例【提现成功-整数】--执行失败
+2023-03-22 23:03:55,325 - [test_withdraw.py-->line:52] - ERROR: --用例【提现成功-1位小数】--执行失败
+2023-03-22 23:03:55,447 - [test_withdraw.py-->line:52] - ERROR: --用例【提现成功-2位小数】--执行失败
+2023-03-22 23:03:55,564 - [test_withdraw.py-->line:48] - ERROR: --用例【提现成功-50万】--执行失败
+2023-03-22 23:03:55,564 - [test_withdraw.py-->line:49] - ERROR: 0 != 1002
+2023-03-22 23:03:55,682 - [test_withdraw.py-->line:52] - ERROR: --用例【会员id为空】--执行失败
+2023-03-22 23:03:55,797 - [test_withdraw.py-->line:52] - ERROR: --用例【会员id为小数】--执行失败
+2023-03-22 23:03:55,905 - [test_withdraw.py-->line:48] - ERROR: --用例【提现金额为0】--执行失败
+2023-03-22 23:03:55,905 - [test_withdraw.py-->line:49] - ERROR: 2 != 0
+2023-03-22 23:03:56,014 - [test_withdraw.py-->line:48] - ERROR: --用例【提现金额为负数】--执行失败
+2023-03-22 23:03:56,014 - [test_withdraw.py-->line:49] - ERROR: '金额必须大于0并且小于或者500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^            ++      +
+
+2023-03-22 23:03:56,128 - [test_withdraw.py-->line:48] - ERROR: --用例【提现金额为空】--执行失败
+2023-03-22 23:03:56,128 - [test_withdraw.py-->line:49] - ERROR: '金额为空' != '余额为空'
+- 金额为空
+? ^
++ 余额为空
+? ^
+
+2023-03-22 23:03:56,225 - [test_withdraw.py-->line:48] - ERROR: --用例【提现金额-3为小数】--执行失败
+2023-03-22 23:03:56,225 - [test_withdraw.py-->line:49] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-22 23:03:56,322 - [test_withdraw.py-->line:48] - ERROR: --用例【提现金额-大于50万】--执行失败
+2023-03-22 23:03:56,322 - [test_withdraw.py-->line:49] - ERROR: '金额必须大于0并且小于或者500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^            ++      +
+
+2023-03-22 23:06:06,852 - [test_login.py-->line:35] - ERROR: --用力【登录成功】--执行成功
+2023-03-22 23:06:06,953 - [test_login.py-->line:35] - ERROR: --用力【不填用户名】--执行成功
+2023-03-22 23:06:07,052 - [test_login.py-->line:35] - ERROR: --用力【用户名不足】--执行成功
+2023-03-22 23:06:07,163 - [test_login.py-->line:35] - ERROR: --用力【用户名超过】--执行成功
+2023-03-22 23:06:07,269 - [test_login.py-->line:35] - ERROR: --用力【用户名特殊字符】--执行成功
+2023-03-22 23:06:07,366 - [test_login.py-->line:35] - ERROR: --用力【不输密码】--执行成功
+2023-03-22 23:06:07,474 - [test_login.py-->line:31] - ERROR: --用力【密码小于】--执行失败
+2023-03-22 23:06:07,474 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 23:06:07,600 - [test_login.py-->line:31] - ERROR: --用力【密码大于】--执行失败
+2023-03-22 23:06:07,600 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 23:06:07,734 - [test_login.py-->line:31] - ERROR: --用力【密码特殊字符】--执行失败
+2023-03-22 23:06:07,734 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式错误'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-22 23:06:07,986 - [test_recharge.py-->line:51] - ERROR: 用例--【充值成功】--执行成功
+2023-03-22 23:06:08,098 - [test_recharge.py-->line:51] - ERROR: 用例--【id错误】--执行成功
+2023-03-22 23:06:08,212 - [test_recharge.py-->line:51] - ERROR: 用例--【不输入id】--执行成功
+2023-03-22 23:06:08,306 - [test_recharge.py-->line:47] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-22 23:06:08,307 - [test_recharge.py-->line:48] - ERROR: 1 != 2
+2023-03-22 23:06:08,400 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-22 23:06:08,400 - [test_recharge.py-->line:48] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-22 23:06:08,492 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-22 23:06:08,492 - [test_recharge.py-->line:48] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-22 23:06:08,619 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-22 23:06:08,620 - [test_recharge.py-->line:48] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-22 23:06:08,722 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-22 23:06:08,722 - [test_recharge.py-->line:48] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-22 23:06:08,839 - [test_register.py-->line:42] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-22 23:06:08,974 - [test_register.py-->line:42] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-22 23:06:09,101 - [test_register.py-->line:42] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-22 23:06:09,198 - [test_register.py-->line:42] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-22 23:06:09,311 - [test_register.py-->line:42] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-22 23:06:09,423 - [test_register.py-->line:42] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-22 23:06:09,526 - [test_register.py-->line:42] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-22 23:06:09,619 - [test_register.py-->line:42] - ERROR: 用例--【密码为空】--执行通过
+2023-03-22 23:06:09,720 - [test_register.py-->line:42] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-22 23:06:09,830 - [test_register.py-->line:42] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-22 23:06:09,930 - [test_register.py-->line:42] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-22 23:06:10,027 - [test_register.py-->line:42] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-22 23:06:10,138 - [test_register.py-->line:42] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-22 23:06:10,372 - [test_withdraw.py-->line:52] - ERROR: --用例【提现成功-整数】--执行失败
+2023-03-22 23:06:10,490 - [test_withdraw.py-->line:52] - ERROR: --用例【提现成功-1位小数】--执行失败
+2023-03-22 23:06:10,604 - [test_withdraw.py-->line:52] - ERROR: --用例【提现成功-2位小数】--执行失败
+2023-03-22 23:06:10,715 - [test_withdraw.py-->line:48] - ERROR: --用例【提现成功-50万】--执行失败
+2023-03-22 23:06:10,715 - [test_withdraw.py-->line:49] - ERROR: 0 != 1002
+2023-03-22 23:06:10,827 - [test_withdraw.py-->line:52] - ERROR: --用例【会员id为空】--执行失败
+2023-03-22 23:06:10,939 - [test_withdraw.py-->line:52] - ERROR: --用例【会员id为小数】--执行失败
+2023-03-22 23:06:11,065 - [test_withdraw.py-->line:48] - ERROR: --用例【提现金额为0】--执行失败
+2023-03-22 23:06:11,065 - [test_withdraw.py-->line:49] - ERROR: 2 != 0
+2023-03-22 23:06:11,188 - [test_withdraw.py-->line:48] - ERROR: --用例【提现金额为负数】--执行失败
+2023-03-22 23:06:11,189 - [test_withdraw.py-->line:49] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-22 23:06:11,290 - [test_withdraw.py-->line:48] - ERROR: --用例【提现金额为空】--执行失败
+2023-03-22 23:06:11,290 - [test_withdraw.py-->line:49] - ERROR: '金额为空' != '余额为空'
+- 金额为空
+? ^
++ 余额为空
+? ^
+
+2023-03-22 23:06:11,386 - [test_withdraw.py-->line:48] - ERROR: --用例【提现金额-3为小数】--执行失败
+2023-03-22 23:06:11,386 - [test_withdraw.py-->line:49] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-22 23:06:11,488 - [test_withdraw.py-->line:48] - ERROR: --用例【提现金额-大于50万】--执行失败
+2023-03-22 23:06:11,488 - [test_withdraw.py-->line:49] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-22 23:06:11,599 - [test_withdraw.py-->line:52] - ERROR: --用例【提现金额-非数字】--执行失败
+2023-03-23 17:35:54,289 - [test_withdraw.py-->line:59] - ERROR: --用例【提现成功-整数】--执行失败
+2023-03-23 17:35:54,697 - [test_withdraw.py-->line:59] - ERROR: --用例【提现成功-1位小数】--执行失败
+2023-03-23 17:35:55,049 - [test_withdraw.py-->line:59] - ERROR: --用例【提现成功-2位小数】--执行失败
+2023-03-23 17:35:55,375 - [test_withdraw.py-->line:55] - ERROR: --用例【提现成功-50万】--执行失败
+2023-03-23 17:35:55,375 - [test_withdraw.py-->line:56] - ERROR: 0 != 1002
+2023-03-23 17:35:55,765 - [test_withdraw.py-->line:59] - ERROR: --用例【会员id为空】--执行失败
+2023-03-23 17:35:56,079 - [test_withdraw.py-->line:59] - ERROR: --用例【会员id为小数】--执行失败
+2023-03-23 17:35:56,403 - [test_withdraw.py-->line:55] - ERROR: --用例【提现金额为0】--执行失败
+2023-03-23 17:35:56,403 - [test_withdraw.py-->line:56] - ERROR: 2 != 0
+2023-03-23 17:35:56,740 - [test_withdraw.py-->line:55] - ERROR: --用例【提现金额为负数】--执行失败
+2023-03-23 17:35:56,741 - [test_withdraw.py-->line:56] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-23 17:35:57,084 - [test_withdraw.py-->line:55] - ERROR: --用例【提现金额为空】--执行失败
+2023-03-23 17:35:57,084 - [test_withdraw.py-->line:56] - ERROR: '金额为空' != '余额为空'
+- 金额为空
+? ^
++ 余额为空
+? ^
+
+2023-03-23 17:35:57,432 - [test_withdraw.py-->line:55] - ERROR: --用例【提现金额-3为小数】--执行失败
+2023-03-23 17:35:57,432 - [test_withdraw.py-->line:56] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-23 17:35:57,773 - [test_withdraw.py-->line:55] - ERROR: --用例【提现金额-大于50万】--执行失败
+2023-03-23 17:35:57,773 - [test_withdraw.py-->line:56] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-23 17:35:58,107 - [test_withdraw.py-->line:59] - ERROR: --用例【提现金额-非数字】--执行失败
+2023-03-23 17:40:43,189 - [test_withdraw.py-->line:61] - ERROR: --用例【提现成功-整数】--执行失败
+2023-03-23 17:40:43,535 - [test_withdraw.py-->line:57] - ERROR: --用例【提现成功-1位小数】--执行失败
+2023-03-23 17:40:43,535 - [test_withdraw.py-->line:58] - ERROR: 600.1 != Decimal('600.10')
+2023-03-23 17:40:43,952 - [test_withdraw.py-->line:57] - ERROR: --用例【提现成功-2位小数】--执行失败
+2023-03-23 17:40:43,952 - [test_withdraw.py-->line:58] - ERROR: 600.22 != Decimal('600.22')
+2023-03-23 17:40:44,294 - [test_withdraw.py-->line:57] - ERROR: --用例【提现成功-50万】--执行失败
+2023-03-23 17:40:44,294 - [test_withdraw.py-->line:58] - ERROR: 0 != 1002
+2023-03-23 17:40:44,634 - [test_withdraw.py-->line:57] - ERROR: --用例【会员id为空】--执行失败
+2023-03-23 17:40:44,634 - [test_withdraw.py-->line:58] - ERROR: 600 != Decimal('0.00')
+2023-03-23 17:40:44,982 - [test_withdraw.py-->line:57] - ERROR: --用例【会员id为小数】--执行失败
+2023-03-23 17:40:44,983 - [test_withdraw.py-->line:58] - ERROR: 600 != Decimal('0.00')
+2023-03-23 17:40:45,357 - [test_withdraw.py-->line:57] - ERROR: --用例【提现金额为0】--执行失败
+2023-03-23 17:40:45,357 - [test_withdraw.py-->line:58] - ERROR: 2 != 0
+2023-03-23 17:40:45,693 - [test_withdraw.py-->line:57] - ERROR: --用例【提现金额为负数】--执行失败
+2023-03-23 17:40:45,694 - [test_withdraw.py-->line:58] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-23 17:40:46,058 - [test_withdraw.py-->line:57] - ERROR: --用例【提现金额为空】--执行失败
+2023-03-23 17:40:46,058 - [test_withdraw.py-->line:58] - ERROR: '金额为空' != '余额为空'
+- 金额为空
+? ^
++ 余额为空
+? ^
+
+2023-03-23 17:40:46,413 - [test_withdraw.py-->line:57] - ERROR: --用例【提现金额-3为小数】--执行失败
+2023-03-23 17:40:46,413 - [test_withdraw.py-->line:58] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-23 17:40:46,755 - [test_withdraw.py-->line:57] - ERROR: --用例【提现金额-大于50万】--执行失败
+2023-03-23 17:40:46,755 - [test_withdraw.py-->line:58] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-23 17:40:47,088 - [test_withdraw.py-->line:57] - ERROR: --用例【提现金额-非数字】--执行失败
+2023-03-23 17:40:47,089 - [test_withdraw.py-->line:58] - ERROR: '5万' != Decimal('0.00')
+2023-03-23 17:44:18,373 - [test_withdraw.py-->line:60] - ERROR: --用例【提现成功-整数】--执行失败
+2023-03-23 17:44:18,373 - [test_withdraw.py-->line:61] - ERROR: 0 != 600.0
+2023-03-23 17:44:18,806 - [test_withdraw.py-->line:60] - ERROR: --用例【提现成功-1位小数】--执行失败
+2023-03-23 17:44:18,806 - [test_withdraw.py-->line:61] - ERROR: 0 != 600.1
+2023-03-23 17:44:19,176 - [test_withdraw.py-->line:60] - ERROR: --用例【提现成功-2位小数】--执行失败
+2023-03-23 17:44:19,177 - [test_withdraw.py-->line:61] - ERROR: 0 != 600.22
+2023-03-23 17:44:19,531 - [test_withdraw.py-->line:60] - ERROR: --用例【提现成功-50万】--执行失败
+2023-03-23 17:44:19,532 - [test_withdraw.py-->line:61] - ERROR: 0 != 1002
+2023-03-23 17:44:20,324 - [test_withdraw.py-->line:64] - ERROR: --用例【会员id为空】--执行失败
+2023-03-23 17:44:20,767 - [test_withdraw.py-->line:64] - ERROR: --用例【会员id为小数】--执行失败
+2023-03-23 17:44:21,150 - [test_withdraw.py-->line:60] - ERROR: --用例【提现金额为0】--执行失败
+2023-03-23 17:44:21,150 - [test_withdraw.py-->line:61] - ERROR: 2 != 0
+2023-03-23 17:44:21,512 - [test_withdraw.py-->line:60] - ERROR: --用例【提现金额为负数】--执行失败
+2023-03-23 17:44:21,512 - [test_withdraw.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-23 17:44:21,866 - [test_withdraw.py-->line:60] - ERROR: --用例【提现金额为空】--执行失败
+2023-03-23 17:44:21,867 - [test_withdraw.py-->line:61] - ERROR: '金额为空' != '余额为空'
+- 金额为空
+? ^
++ 余额为空
+? ^
+
+2023-03-23 17:44:22,210 - [test_withdraw.py-->line:60] - ERROR: --用例【提现金额-3为小数】--执行失败
+2023-03-23 17:44:22,211 - [test_withdraw.py-->line:61] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-23 17:44:22,560 - [test_withdraw.py-->line:60] - ERROR: --用例【提现金额-大于50万】--执行失败
+2023-03-23 17:44:22,561 - [test_withdraw.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-23 17:44:22,930 - [test_withdraw.py-->line:64] - ERROR: --用例【提现金额-非数字】--执行失败
+2023-03-23 17:44:27,454 - [test_withdraw.py-->line:64] - ERROR: --用例【提现成功-整数】--执行失败
+2023-03-23 17:44:27,798 - [test_withdraw.py-->line:64] - ERROR: --用例【提现成功-1位小数】--执行失败
+2023-03-23 17:44:28,156 - [test_withdraw.py-->line:64] - ERROR: --用例【提现成功-2位小数】--执行失败
+2023-03-23 17:44:28,488 - [test_withdraw.py-->line:60] - ERROR: --用例【提现成功-50万】--执行失败
+2023-03-23 17:44:28,488 - [test_withdraw.py-->line:61] - ERROR: 0 != 1002
+2023-03-23 17:44:28,865 - [test_withdraw.py-->line:64] - ERROR: --用例【会员id为空】--执行失败
+2023-03-23 17:44:29,183 - [test_withdraw.py-->line:64] - ERROR: --用例【会员id为小数】--执行失败
+2023-03-23 17:44:29,523 - [test_withdraw.py-->line:60] - ERROR: --用例【提现金额为0】--执行失败
+2023-03-23 17:44:29,523 - [test_withdraw.py-->line:61] - ERROR: 2 != 0
+2023-03-23 17:44:29,846 - [test_withdraw.py-->line:60] - ERROR: --用例【提现金额为负数】--执行失败
+2023-03-23 17:44:29,846 - [test_withdraw.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-23 17:44:30,173 - [test_withdraw.py-->line:60] - ERROR: --用例【提现金额为空】--执行失败
+2023-03-23 17:44:30,174 - [test_withdraw.py-->line:61] - ERROR: '金额为空' != '余额为空'
+- 金额为空
+? ^
++ 余额为空
+? ^
+
+2023-03-23 17:44:30,496 - [test_withdraw.py-->line:60] - ERROR: --用例【提现金额-3为小数】--执行失败
+2023-03-23 17:44:30,496 - [test_withdraw.py-->line:61] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-23 17:44:30,851 - [test_withdraw.py-->line:60] - ERROR: --用例【提现金额-大于50万】--执行失败
+2023-03-23 17:44:30,852 - [test_withdraw.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-23 17:44:31,201 - [test_withdraw.py-->line:64] - ERROR: --用例【提现金额-非数字】--执行失败
+2023-03-23 17:56:33,619 - [test_register.py-->line:46] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-23 17:56:33,844 - [test_register.py-->line:46] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-23 17:56:34,060 - [test_register.py-->line:46] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-23 17:56:34,285 - [test_register.py-->line:46] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-23 17:56:34,506 - [test_register.py-->line:46] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-23 17:56:34,711 - [test_register.py-->line:46] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-23 17:56:34,932 - [test_register.py-->line:46] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-23 17:56:35,150 - [test_register.py-->line:46] - ERROR: 用例--【密码为空】--执行通过
+2023-03-23 17:56:35,364 - [test_register.py-->line:46] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-23 17:56:35,563 - [test_register.py-->line:46] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-23 17:56:35,784 - [test_register.py-->line:46] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-23 17:56:35,989 - [test_register.py-->line:46] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-23 17:56:36,191 - [test_register.py-->line:46] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-23 17:58:25,302 - [test_register.py-->line:46] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-23 17:58:25,546 - [test_register.py-->line:46] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-23 17:58:25,784 - [test_register.py-->line:46] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-23 17:58:26,002 - [test_register.py-->line:46] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-23 17:58:26,212 - [test_register.py-->line:46] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-23 17:58:26,418 - [test_register.py-->line:46] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-23 17:58:26,639 - [test_register.py-->line:46] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-23 17:58:26,841 - [test_register.py-->line:46] - ERROR: 用例--【密码为空】--执行通过
+2023-03-23 17:58:27,063 - [test_register.py-->line:46] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-23 17:58:27,273 - [test_register.py-->line:46] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-23 17:58:27,478 - [test_register.py-->line:46] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-23 17:58:27,693 - [test_register.py-->line:46] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-23 17:58:27,911 - [test_register.py-->line:46] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-23 18:00:15,512 - [test_register.py-->line:46] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-23 18:02:25,037 - [test_register.py-->line:51] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-23 18:02:25,265 - [test_register.py-->line:51] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-23 18:02:25,515 - [test_register.py-->line:51] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-23 18:02:25,632 - [test_register.py-->line:51] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-23 18:02:25,841 - [test_register.py-->line:51] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-23 18:02:26,049 - [test_register.py-->line:51] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-23 18:02:26,254 - [test_register.py-->line:51] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-23 18:02:26,480 - [test_register.py-->line:51] - ERROR: 用例--【密码为空】--执行通过
+2023-03-23 18:02:26,697 - [test_register.py-->line:51] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-23 18:02:26,905 - [test_register.py-->line:51] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-23 18:02:27,137 - [test_register.py-->line:51] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-23 18:02:27,361 - [test_register.py-->line:51] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-23 18:02:27,561 - [test_register.py-->line:51] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-23 18:07:24,111 - [test_register.py-->line:55] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-23 18:07:24,472 - [test_register.py-->line:55] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-23 18:07:24,720 - [test_register.py-->line:55] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-23 18:07:24,825 - [test_register.py-->line:55] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-23 18:07:25,049 - [test_register.py-->line:55] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-23 18:07:25,275 - [test_register.py-->line:55] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-23 18:07:25,487 - [test_register.py-->line:55] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-23 18:07:25,714 - [test_register.py-->line:55] - ERROR: 用例--【密码为空】--执行通过
+2023-03-23 18:07:25,939 - [test_register.py-->line:55] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-23 18:07:26,182 - [test_register.py-->line:55] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-23 18:07:26,405 - [test_register.py-->line:55] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-23 18:07:26,650 - [test_register.py-->line:55] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-23 18:07:26,877 - [test_register.py-->line:55] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-23 18:13:40,085 - [test_register.py-->line:57] - ERROR: 用例--【注册成功-带用户名】--执行失败
+2023-03-23 18:13:40,085 - [test_register.py-->line:59] - ERROR: 13312042989 != '13312042989'
+2023-03-23 18:13:40,617 - [test_register.py-->line:57] - ERROR: 用例--【注册成功-不带用户名】--执行失败
+2023-03-23 18:13:40,617 - [test_register.py-->line:59] - ERROR: 13316553513 != '13316553513'
+2023-03-23 18:13:40,967 - [test_register.py-->line:62] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-23 18:13:41,075 - [test_register.py-->line:62] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-23 18:13:41,400 - [test_register.py-->line:62] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-23 18:13:41,737 - [test_register.py-->line:62] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-23 18:13:42,037 - [test_register.py-->line:62] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-23 18:13:42,368 - [test_register.py-->line:62] - ERROR: 用例--【密码为空】--执行通过
+2023-03-23 18:13:42,680 - [test_register.py-->line:62] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-23 18:13:42,987 - [test_register.py-->line:62] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-23 18:13:43,302 - [test_register.py-->line:62] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-23 18:13:43,623 - [test_register.py-->line:62] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-23 18:13:43,915 - [test_register.py-->line:62] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-23 18:14:21,965 - [test_register.py-->line:62] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-23 18:14:22,390 - [test_register.py-->line:62] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-23 18:14:22,711 - [test_register.py-->line:62] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-23 18:14:22,834 - [test_register.py-->line:62] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-23 18:14:23,156 - [test_register.py-->line:62] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-23 18:14:23,466 - [test_register.py-->line:62] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-23 18:14:23,769 - [test_register.py-->line:62] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-23 18:14:24,096 - [test_register.py-->line:62] - ERROR: 用例--【密码为空】--执行通过
+2023-03-23 18:14:24,399 - [test_register.py-->line:62] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-23 18:14:24,711 - [test_register.py-->line:62] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-23 18:14:25,018 - [test_register.py-->line:62] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-23 18:14:25,336 - [test_register.py-->line:62] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-23 18:14:25,615 - [test_register.py-->line:62] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-23 18:22:54,952 - [test_register.py-->line:62] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-23 18:22:55,295 - [test_register.py-->line:62] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-23 18:22:55,524 - [test_register.py-->line:62] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-23 18:22:55,626 - [test_register.py-->line:62] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-23 18:22:55,832 - [test_register.py-->line:62] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-23 18:22:56,066 - [test_register.py-->line:62] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-23 18:22:56,264 - [test_register.py-->line:62] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-23 18:22:56,475 - [test_register.py-->line:62] - ERROR: 用例--【密码为空】--执行通过
+2023-03-23 18:22:56,704 - [test_register.py-->line:62] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-23 18:22:56,916 - [test_register.py-->line:62] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-23 18:22:57,155 - [test_register.py-->line:62] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-23 18:22:57,367 - [test_register.py-->line:62] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-23 18:22:57,584 - [test_register.py-->line:62] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-23 18:23:48,763 - [test_register.py-->line:62] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-23 18:23:49,115 - [test_register.py-->line:62] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-23 18:23:49,369 - [test_register.py-->line:62] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-23 18:23:49,473 - [test_register.py-->line:62] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-23 18:23:49,679 - [test_register.py-->line:62] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-23 18:23:50,003 - [test_register.py-->line:62] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-23 18:23:50,248 - [test_register.py-->line:62] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-23 18:23:50,456 - [test_register.py-->line:62] - ERROR: 用例--【密码为空】--执行通过
+2023-03-23 18:23:50,762 - [test_register.py-->line:62] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-23 18:23:51,006 - [test_register.py-->line:62] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-23 18:23:51,227 - [test_register.py-->line:62] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-23 18:23:51,437 - [test_register.py-->line:62] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-23 18:23:51,641 - [test_register.py-->line:62] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-23 18:25:12,968 - [test_register.py-->line:63] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-23 18:25:13,428 - [test_register.py-->line:63] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-23 18:25:13,758 - [test_register.py-->line:63] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-23 18:25:13,873 - [test_register.py-->line:63] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-23 18:25:14,109 - [test_register.py-->line:63] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-23 18:25:14,319 - [test_register.py-->line:63] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-23 18:25:14,519 - [test_register.py-->line:63] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-23 18:25:14,748 - [test_register.py-->line:63] - ERROR: 用例--【密码为空】--执行通过
+2023-03-23 18:25:14,957 - [test_register.py-->line:63] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-23 18:25:15,168 - [test_register.py-->line:63] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-23 18:25:15,391 - [test_register.py-->line:63] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-23 18:25:15,609 - [test_register.py-->line:63] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-23 18:25:15,821 - [test_register.py-->line:63] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-23 18:26:01,860 - [test_register.py-->line:63] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-23 18:26:02,346 - [test_register.py-->line:63] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-23 18:26:02,721 - [test_register.py-->line:63] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-23 18:26:02,848 - [test_register.py-->line:63] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-23 18:26:03,166 - [test_register.py-->line:63] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-23 18:26:03,417 - [test_register.py-->line:63] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-23 18:26:03,650 - [test_register.py-->line:63] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-23 18:26:03,899 - [test_register.py-->line:63] - ERROR: 用例--【密码为空】--执行通过
+2023-03-23 18:26:04,142 - [test_register.py-->line:63] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-23 18:26:04,359 - [test_register.py-->line:63] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-23 18:26:04,584 - [test_register.py-->line:63] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-23 18:26:04,831 - [test_register.py-->line:63] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-23 18:26:05,034 - [test_register.py-->line:63] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-23 18:26:12,912 - [test_register.py-->line:63] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-23 18:26:13,348 - [test_register.py-->line:63] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-23 18:26:13,686 - [test_register.py-->line:63] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-23 18:26:13,813 - [test_register.py-->line:63] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-23 18:26:14,035 - [test_register.py-->line:63] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-23 18:26:14,239 - [test_register.py-->line:63] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-23 18:26:14,443 - [test_register.py-->line:63] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-23 18:26:14,648 - [test_register.py-->line:63] - ERROR: 用例--【密码为空】--执行通过
+2023-03-23 18:26:14,874 - [test_register.py-->line:63] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-23 18:26:15,087 - [test_register.py-->line:63] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-23 18:26:15,294 - [test_register.py-->line:63] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-23 18:26:15,499 - [test_register.py-->line:63] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-23 18:26:15,715 - [test_register.py-->line:63] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-23 18:27:03,460 - [test_register.py-->line:63] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-23 18:27:03,906 - [test_register.py-->line:63] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-23 18:27:04,216 - [test_register.py-->line:63] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-23 18:27:04,339 - [test_register.py-->line:63] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-23 18:27:04,558 - [test_register.py-->line:63] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-23 18:27:04,770 - [test_register.py-->line:63] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-23 18:27:04,959 - [test_register.py-->line:63] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-23 18:27:05,163 - [test_register.py-->line:63] - ERROR: 用例--【密码为空】--执行通过
+2023-03-23 18:27:05,380 - [test_register.py-->line:63] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-23 18:27:05,584 - [test_register.py-->line:63] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-23 18:27:05,783 - [test_register.py-->line:63] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-23 18:27:06,001 - [test_register.py-->line:63] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-23 18:27:06,232 - [test_register.py-->line:63] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-23 18:30:09,951 - [test_register.py-->line:62] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-23 18:30:10,210 - [test_register.py-->line:62] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-23 18:30:10,465 - [test_register.py-->line:62] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-23 18:30:10,567 - [test_register.py-->line:62] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-23 18:30:10,783 - [test_register.py-->line:62] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-23 18:30:11,019 - [test_register.py-->line:62] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-23 18:30:11,247 - [test_register.py-->line:62] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-23 18:30:11,476 - [test_register.py-->line:62] - ERROR: 用例--【密码为空】--执行通过
+2023-03-23 18:30:11,699 - [test_register.py-->line:62] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-23 18:30:11,934 - [test_register.py-->line:62] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-23 18:30:12,146 - [test_register.py-->line:62] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-23 18:30:12,361 - [test_register.py-->line:62] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-23 18:30:12,584 - [test_register.py-->line:62] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-23 18:32:16,132 - [test_register.py-->line:62] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-23 18:32:16,388 - [test_register.py-->line:62] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-23 18:32:16,651 - [test_register.py-->line:62] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-23 18:32:16,759 - [test_register.py-->line:62] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-23 18:32:17,006 - [test_register.py-->line:62] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-23 18:32:17,231 - [test_register.py-->line:62] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-23 18:32:17,463 - [test_register.py-->line:62] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-23 18:32:17,704 - [test_register.py-->line:62] - ERROR: 用例--【密码为空】--执行通过
+2023-03-23 18:32:17,935 - [test_register.py-->line:62] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-23 18:32:18,195 - [test_register.py-->line:62] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-23 18:32:18,509 - [test_register.py-->line:62] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-23 18:32:18,742 - [test_register.py-->line:62] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-23 18:32:18,986 - [test_register.py-->line:62] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-23 18:38:05,889 - [test_register.py-->line:60] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-23 18:38:06,149 - [test_register.py-->line:60] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-23 18:38:06,290 - [test_register.py-->line:60] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-23 18:38:06,398 - [test_register.py-->line:60] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-23 18:38:06,517 - [test_register.py-->line:60] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-23 18:38:06,623 - [test_register.py-->line:60] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-23 18:38:06,749 - [test_register.py-->line:60] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-23 18:38:06,858 - [test_register.py-->line:60] - ERROR: 用例--【密码为空】--执行通过
+2023-03-23 18:38:06,983 - [test_register.py-->line:60] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-23 18:38:07,087 - [test_register.py-->line:60] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-23 18:38:07,218 - [test_register.py-->line:60] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-23 18:38:07,323 - [test_register.py-->line:60] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-23 18:38:07,446 - [test_register.py-->line:60] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-23 18:38:10,901 - [test_login.py-->line:35] - ERROR: --用力【登录成功】--执行成功
+2023-03-23 18:38:11,009 - [test_login.py-->line:35] - ERROR: --用力【不填用户名】--执行成功
+2023-03-23 18:38:11,151 - [test_login.py-->line:35] - ERROR: --用力【用户名不足】--执行成功
+2023-03-23 18:38:11,284 - [test_login.py-->line:35] - ERROR: --用力【用户名超过】--执行成功
+2023-03-23 18:38:11,382 - [test_login.py-->line:35] - ERROR: --用力【用户名特殊字符】--执行成功
+2023-03-23 18:38:11,481 - [test_login.py-->line:35] - ERROR: --用力【不输密码】--执行成功
+2023-03-23 18:38:11,600 - [test_login.py-->line:31] - ERROR: --用力【密码小于】--执行失败
+2023-03-23 18:38:11,600 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-23 18:38:11,764 - [test_login.py-->line:31] - ERROR: --用力【密码大于】--执行失败
+2023-03-23 18:38:11,765 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-23 18:38:11,905 - [test_login.py-->line:31] - ERROR: --用力【密码特殊字符】--执行失败
+2023-03-23 18:38:11,905 - [test_login.py-->line:32] - ERROR: {'code': 2, 'msg': '密码格式错误'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-23 18:38:12,177 - [test_recharge.py-->line:51] - ERROR: 用例--【充值成功】--执行成功
+2023-03-23 18:38:12,349 - [test_recharge.py-->line:51] - ERROR: 用例--【id错误】--执行成功
+2023-03-23 18:38:12,450 - [test_recharge.py-->line:51] - ERROR: 用例--【不输入id】--执行成功
+2023-03-23 18:38:12,586 - [test_recharge.py-->line:47] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-23 18:38:12,586 - [test_recharge.py-->line:48] - ERROR: 1 != 2
+2023-03-23 18:38:12,704 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-23 18:38:12,704 - [test_recharge.py-->line:48] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-23 18:38:12,810 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-23 18:38:12,810 - [test_recharge.py-->line:48] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-23 18:38:12,934 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-23 18:38:12,934 - [test_recharge.py-->line:48] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-23 18:38:13,040 - [test_recharge.py-->line:47] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-23 18:38:13,040 - [test_recharge.py-->line:48] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-23 18:38:13,274 - [test_register.py-->line:60] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-23 18:38:13,504 - [test_register.py-->line:60] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-23 18:38:13,620 - [test_register.py-->line:60] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-23 18:38:13,738 - [test_register.py-->line:60] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-23 18:38:13,841 - [test_register.py-->line:60] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-23 18:38:13,944 - [test_register.py-->line:60] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-23 18:38:14,058 - [test_register.py-->line:60] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-23 18:38:14,173 - [test_register.py-->line:60] - ERROR: 用例--【密码为空】--执行通过
+2023-03-23 18:38:14,272 - [test_register.py-->line:60] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-23 18:38:14,392 - [test_register.py-->line:60] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-23 18:38:14,511 - [test_register.py-->line:60] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-23 18:38:14,617 - [test_register.py-->line:60] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-23 18:38:14,739 - [test_register.py-->line:60] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-23 18:38:15,181 - [test_withdraw.py-->line:64] - ERROR: --用例【提现成功-整数】--执行失败
+2023-03-23 18:38:15,523 - [test_withdraw.py-->line:64] - ERROR: --用例【提现成功-1位小数】--执行失败
+2023-03-23 18:38:15,841 - [test_withdraw.py-->line:64] - ERROR: --用例【提现成功-2位小数】--执行失败
+2023-03-23 18:38:16,155 - [test_withdraw.py-->line:60] - ERROR: --用例【提现成功-50万】--执行失败
+2023-03-23 18:38:16,156 - [test_withdraw.py-->line:61] - ERROR: 0 != 1002
+2023-03-23 18:38:16,476 - [test_withdraw.py-->line:64] - ERROR: --用例【会员id为空】--执行失败
+2023-03-23 18:38:16,783 - [test_withdraw.py-->line:64] - ERROR: --用例【会员id为小数】--执行失败
+2023-03-23 18:38:17,100 - [test_withdraw.py-->line:60] - ERROR: --用例【提现金额为0】--执行失败
+2023-03-23 18:38:17,100 - [test_withdraw.py-->line:61] - ERROR: 2 != 0
+2023-03-23 18:38:17,424 - [test_withdraw.py-->line:60] - ERROR: --用例【提现金额为负数】--执行失败
+2023-03-23 18:38:17,424 - [test_withdraw.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-23 18:38:17,728 - [test_withdraw.py-->line:60] - ERROR: --用例【提现金额为空】--执行失败
+2023-03-23 18:38:17,728 - [test_withdraw.py-->line:61] - ERROR: '金额为空' != '余额为空'
+- 金额为空
+? ^
++ 余额为空
+? ^
+
+2023-03-23 18:38:18,048 - [test_withdraw.py-->line:60] - ERROR: --用例【提现金额-3为小数】--执行失败
+2023-03-23 18:38:18,048 - [test_withdraw.py-->line:61] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-23 18:38:18,357 - [test_withdraw.py-->line:60] - ERROR: --用例【提现金额-大于50万】--执行失败
+2023-03-23 18:38:18,357 - [test_withdraw.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-23 18:38:18,659 - [test_withdraw.py-->line:64] - ERROR: --用例【提现金额-非数字】--执行失败
+2023-03-23 19:58:04,051 - [test_recharge.py-->line:58] - ERROR: 用例--【充值成功】--执行失败
+2023-03-23 19:58:04,052 - [test_recharge.py-->line:59] - ERROR: '1' != -1.0
+2023-03-23 19:58:04,472 - [test_recharge.py-->line:62] - ERROR: 用例--【id错误】--执行成功
+2023-03-23 19:58:04,825 - [test_recharge.py-->line:62] - ERROR: 用例--【不输入id】--执行成功
+2023-03-23 19:58:05,173 - [test_recharge.py-->line:58] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-23 19:58:05,173 - [test_recharge.py-->line:59] - ERROR: 1 != 2
+2023-03-23 19:58:05,550 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-23 19:58:05,550 - [test_recharge.py-->line:59] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-23 19:58:05,935 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-23 19:58:05,935 - [test_recharge.py-->line:59] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-23 19:58:06,325 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-23 19:58:06,326 - [test_recharge.py-->line:59] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-23 19:58:06,705 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-23 19:58:06,705 - [test_recharge.py-->line:59] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-23 20:00:21,205 - [test_recharge.py-->line:58] - ERROR: 用例--【充值成功】--执行失败
+2023-03-23 20:00:21,205 - [test_recharge.py-->line:59] - ERROR: '1' != 1.0
+2023-03-23 20:00:21,639 - [test_recharge.py-->line:62] - ERROR: 用例--【id错误】--执行成功
+2023-03-23 20:00:22,011 - [test_recharge.py-->line:62] - ERROR: 用例--【不输入id】--执行成功
+2023-03-23 20:00:22,376 - [test_recharge.py-->line:58] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-23 20:00:22,377 - [test_recharge.py-->line:59] - ERROR: 1 != 2
+2023-03-23 20:00:22,729 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-23 20:00:22,729 - [test_recharge.py-->line:59] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-23 20:00:23,112 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-23 20:00:23,112 - [test_recharge.py-->line:59] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-23 20:00:23,475 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-23 20:00:23,476 - [test_recharge.py-->line:59] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-23 20:00:23,829 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-23 20:00:23,830 - [test_recharge.py-->line:59] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-23 20:00:50,421 - [test_recharge.py-->line:62] - ERROR: 用例--【充值成功】--执行成功
+2023-03-23 20:00:50,774 - [test_recharge.py-->line:62] - ERROR: 用例--【id错误】--执行成功
+2023-03-23 20:00:51,149 - [test_recharge.py-->line:62] - ERROR: 用例--【不输入id】--执行成功
+2023-03-23 20:00:51,509 - [test_recharge.py-->line:58] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-23 20:00:51,509 - [test_recharge.py-->line:59] - ERROR: 1 != 2
+2023-03-23 20:00:51,949 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-23 20:00:51,949 - [test_recharge.py-->line:59] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-23 20:00:52,329 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-23 20:00:52,329 - [test_recharge.py-->line:59] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-23 20:00:52,688 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-23 20:00:52,688 - [test_recharge.py-->line:59] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-23 20:00:53,060 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-23 20:00:53,061 - [test_recharge.py-->line:59] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-23 20:04:30,415 - [test_recharge.py-->line:58] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-23 20:04:30,416 - [test_recharge.py-->line:59] - ERROR: 1 != 2
+2023-03-23 20:04:30,751 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-23 20:04:30,751 - [test_recharge.py-->line:59] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-23 20:04:31,086 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-23 20:04:31,086 - [test_recharge.py-->line:59] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-23 20:04:31,409 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-23 20:04:31,409 - [test_recharge.py-->line:59] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-23 20:04:31,740 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-23 20:04:31,740 - [test_recharge.py-->line:59] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-23 20:04:58,552 - [test_recharge.py-->line:62] - ERROR: 用例--【充值成功】--执行成功
+2023-03-23 20:04:58,860 - [test_recharge.py-->line:62] - ERROR: 用例--【id错误】--执行成功
+2023-03-23 20:04:59,192 - [test_recharge.py-->line:62] - ERROR: 用例--【不输入id】--执行成功
+2023-03-23 20:04:59,521 - [test_recharge.py-->line:58] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-23 20:04:59,523 - [test_recharge.py-->line:59] - ERROR: 1 != 2
+2023-03-23 20:04:59,890 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-23 20:04:59,890 - [test_recharge.py-->line:59] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-23 20:05:00,215 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-23 20:05:00,215 - [test_recharge.py-->line:59] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-23 20:05:00,558 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-23 20:05:00,558 - [test_recharge.py-->line:59] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-23 20:05:00,881 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-23 20:05:00,882 - [test_recharge.py-->line:59] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-23 20:07:06,264 - [test_recharge.py-->line:62] - ERROR: 用例--【充值成功】--执行成功
+2023-03-23 20:07:06,624 - [test_recharge.py-->line:62] - ERROR: 用例--【id错误】--执行成功
+2023-03-23 20:07:06,944 - [test_recharge.py-->line:62] - ERROR: 用例--【不输入id】--执行成功
+2023-03-23 20:07:07,275 - [test_recharge.py-->line:58] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-23 20:07:07,275 - [test_recharge.py-->line:59] - ERROR: 1 != 2
+2023-03-23 20:07:07,647 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-23 20:07:07,647 - [test_recharge.py-->line:59] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-23 20:07:07,970 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-23 20:07:07,970 - [test_recharge.py-->line:59] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-23 20:07:08,291 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-23 20:07:08,291 - [test_recharge.py-->line:59] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-23 20:07:08,621 - [test_recharge.py-->line:58] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-23 20:07:08,622 - [test_recharge.py-->line:59] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-23 22:06:51,170 - [test_login.py-->line:33] - ERROR: --用力【登录成功】--执行失败
+2023-03-23 22:06:51,170 - [test_login.py-->line:34] - ERROR: {'code': 0, 'msg': 'OK'} not in {'code': 1004, 'msg': 'JSON parse error: Cannot construct instance of `com.lemon.pojo.dto.MemberLoginDto` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value (\'{"mobile_phone":18435132058,"pwd":"0987syw.."}\'); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.lemon.pojo.dto.MemberLoginDto` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value (\'{"mobile_phone":18435132058,"pwd":"0987syw.."}\')\n at [Source: (PushbackInputStream); line: 1, column: 1]', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-23 22:06:51,287 - [test_login.py-->line:33] - ERROR: --用力【不填用户名】--执行失败
+2023-03-23 22:06:51,287 - [test_login.py-->line:34] - ERROR: {'code': 1, 'msg': '手机号码为空'} not in {'code': 1004, 'msg': 'JSON parse error: Cannot construct instance of `com.lemon.pojo.dto.MemberLoginDto` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value (\'{"pwd":"12345678"}\'); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.lemon.pojo.dto.MemberLoginDto` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value (\'{"pwd":"12345678"}\')\n at [Source: (PushbackInputStream); line: 1, column: 1]', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-23 22:06:51,409 - [test_login.py-->line:33] - ERROR: --用力【用户名不足】--执行失败
+2023-03-23 22:06:51,409 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '无效的手机格式'} not in {'code': 1004, 'msg': 'JSON parse error: Cannot construct instance of `com.lemon.pojo.dto.MemberLoginDto` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value (\'{"mobile_phone":1843513205,"pwd":"0987syw.."}\'); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.lemon.pojo.dto.MemberLoginDto` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value (\'{"mobile_phone":1843513205,"pwd":"0987syw.."}\')\n at [Source: (PushbackInputStream); line: 1, column: 1]', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-23 22:06:51,525 - [test_login.py-->line:33] - ERROR: --用力【用户名超过】--执行失败
+2023-03-23 22:06:51,525 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '无效的手机格式'} not in {'code': 1004, 'msg': 'JSON parse error: Cannot construct instance of `com.lemon.pojo.dto.MemberLoginDto` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value (\'{"mobile_phone":184351320588,"pwd":"0987syw.."}\'); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.lemon.pojo.dto.MemberLoginDto` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value (\'{"mobile_phone":184351320588,"pwd":"0987syw.."}\')\n at [Source: (PushbackInputStream); line: 1, column: 1]', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-23 22:06:51,627 - [test_login.py-->line:33] - ERROR: --用力【用户名特殊字符】--执行失败
+2023-03-23 22:06:51,627 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '无效的手机格式'} not in {'code': 1004, 'msg': 'JSON parse error: Cannot construct instance of `com.lemon.pojo.dto.MemberLoginDto` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value (\'{"mobile_phone":"?1843513205","pwd":"0987syw.."}\'); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.lemon.pojo.dto.MemberLoginDto` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value (\'{"mobile_phone":"?1843513205","pwd":"0987syw.."}\')\n at [Source: (PushbackInputStream); line: 1, column: 1]', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-23 22:06:51,736 - [test_login.py-->line:33] - ERROR: --用力【不输密码】--执行失败
+2023-03-23 22:06:51,736 - [test_login.py-->line:34] - ERROR: {'code': 1, 'msg': '密码为空'} not in {'code': 1004, 'msg': 'JSON parse error: Cannot construct instance of `com.lemon.pojo.dto.MemberLoginDto` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value (\'{"mobile_phone":18435132058}\'); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.lemon.pojo.dto.MemberLoginDto` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value (\'{"mobile_phone":18435132058}\')\n at [Source: (PushbackInputStream); line: 1, column: 1]', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-23 22:06:51,851 - [test_login.py-->line:33] - ERROR: --用力【密码小于】--执行失败
+2023-03-23 22:06:51,852 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1004, 'msg': 'JSON parse error: Cannot construct instance of `com.lemon.pojo.dto.MemberLoginDto` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value (\'{"mobile_phone":18435132058,"pwd":"0987syw."}\'); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.lemon.pojo.dto.MemberLoginDto` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value (\'{"mobile_phone":18435132058,"pwd":"0987syw."}\')\n at [Source: (PushbackInputStream); line: 1, column: 1]', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-23 22:06:51,949 - [test_login.py-->line:33] - ERROR: --用力【密码大于】--执行失败
+2023-03-23 22:06:51,949 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1004, 'msg': 'JSON parse error: Cannot construct instance of `com.lemon.pojo.dto.MemberLoginDto` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value (\'{"mobile_phone":18435132058,"pwd":"0987syw............"}\'); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.lemon.pojo.dto.MemberLoginDto` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value (\'{"mobile_phone":18435132058,"pwd":"0987syw............"}\')\n at [Source: (PushbackInputStream); line: 1, column: 1]', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-23 22:06:52,044 - [test_login.py-->line:33] - ERROR: --用力【密码特殊字符】--执行失败
+2023-03-23 22:06:52,044 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式错误'} not in {'code': 1004, 'msg': 'JSON parse error: Cannot construct instance of `com.lemon.pojo.dto.MemberLoginDto` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value (\'{"mobile_phone":18435132058,"pwd":"&^%$^$0987syw.."}\'); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.lemon.pojo.dto.MemberLoginDto` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value (\'{"mobile_phone":18435132058,"pwd":"&^%$^$0987syw.."}\')\n at [Source: (PushbackInputStream); line: 1, column: 1]', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-23 22:06:52,501 - [test_recharge.py-->line:64] - ERROR: 用例--【充值成功】--执行成功
+2023-03-23 22:06:52,845 - [test_recharge.py-->line:64] - ERROR: 用例--【id错误】--执行成功
+2023-03-23 22:06:53,188 - [test_recharge.py-->line:64] - ERROR: 用例--【不输入id】--执行成功
+2023-03-23 22:06:53,530 - [test_recharge.py-->line:60] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-23 22:06:53,530 - [test_recharge.py-->line:61] - ERROR: 1 != 2
+2023-03-23 22:06:53,865 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-23 22:06:53,865 - [test_recharge.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-23 22:06:54,219 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-23 22:06:54,219 - [test_recharge.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-23 22:06:54,553 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-23 22:06:54,554 - [test_recharge.py-->line:61] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-23 22:06:54,891 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-23 22:06:54,891 - [test_recharge.py-->line:61] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-23 22:06:55,139 - [test_register.py-->line:60] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-23 22:06:55,379 - [test_register.py-->line:60] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-23 22:06:55,494 - [test_register.py-->line:60] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-23 22:06:55,608 - [test_register.py-->line:60] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-23 22:06:55,707 - [test_register.py-->line:60] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-23 22:06:55,802 - [test_register.py-->line:60] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-23 22:06:55,910 - [test_register.py-->line:60] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-23 22:06:56,019 - [test_register.py-->line:60] - ERROR: 用例--【密码为空】--执行通过
+2023-03-23 22:06:56,114 - [test_register.py-->line:60] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-23 22:06:56,230 - [test_register.py-->line:60] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-23 22:06:56,343 - [test_register.py-->line:60] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-23 22:06:56,445 - [test_register.py-->line:60] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-23 22:06:56,546 - [test_register.py-->line:60] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-23 22:06:57,017 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-整数】--执行失败
+2023-03-23 22:06:57,342 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-1位小数】--执行失败
+2023-03-23 22:06:57,670 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-2位小数】--执行失败
+2023-03-23 22:06:58,002 - [test_withdraw.py-->line:62] - ERROR: --用例【提现成功-50万】--执行失败
+2023-03-23 22:06:58,002 - [test_withdraw.py-->line:63] - ERROR: 0 != 1002
+2023-03-23 22:06:58,317 - [test_withdraw.py-->line:66] - ERROR: --用例【会员id为空】--执行失败
+2023-03-23 22:06:58,646 - [test_withdraw.py-->line:66] - ERROR: --用例【会员id为小数】--执行失败
+2023-03-23 22:06:58,972 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为0】--执行失败
+2023-03-23 22:06:58,972 - [test_withdraw.py-->line:63] - ERROR: 2 != 0
+2023-03-23 22:06:59,291 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为负数】--执行失败
+2023-03-23 22:06:59,291 - [test_withdraw.py-->line:63] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-23 22:06:59,607 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为空】--执行失败
+2023-03-23 22:06:59,607 - [test_withdraw.py-->line:63] - ERROR: '金额为空' != '余额为空'
+- 金额为空
+? ^
++ 余额为空
+? ^
+
+2023-03-23 22:06:59,949 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额-3为小数】--执行失败
+2023-03-23 22:06:59,949 - [test_withdraw.py-->line:63] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-23 22:07:00,284 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额-大于50万】--执行失败
+2023-03-23 22:07:00,284 - [test_withdraw.py-->line:63] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-23 22:07:00,622 - [test_withdraw.py-->line:66] - ERROR: --用例【提现金额-非数字】--执行失败
+2023-03-23 22:08:30,922 - [test_login.py-->line:37] - ERROR: --用力【登录成功】--执行成功
+2023-03-23 22:08:31,046 - [test_login.py-->line:37] - ERROR: --用力【不填用户名】--执行成功
+2023-03-23 22:08:31,163 - [test_login.py-->line:37] - ERROR: --用力【用户名不足】--执行成功
+2023-03-23 22:08:31,275 - [test_login.py-->line:37] - ERROR: --用力【用户名超过】--执行成功
+2023-03-23 22:08:31,375 - [test_login.py-->line:37] - ERROR: --用力【用户名特殊字符】--执行成功
+2023-03-23 22:08:31,484 - [test_login.py-->line:37] - ERROR: --用力【不输密码】--执行成功
+2023-03-23 22:08:31,617 - [test_login.py-->line:33] - ERROR: --用力【密码小于】--执行失败
+2023-03-23 22:08:31,618 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-23 22:08:31,740 - [test_login.py-->line:33] - ERROR: --用力【密码大于】--执行失败
+2023-03-23 22:08:31,740 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-23 22:08:31,867 - [test_login.py-->line:33] - ERROR: --用力【密码特殊字符】--执行失败
+2023-03-23 22:08:31,867 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式错误'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-23 22:08:32,280 - [test_recharge.py-->line:64] - ERROR: 用例--【充值成功】--执行成功
+2023-03-23 22:08:32,596 - [test_recharge.py-->line:64] - ERROR: 用例--【id错误】--执行成功
+2023-03-23 22:08:32,909 - [test_recharge.py-->line:64] - ERROR: 用例--【不输入id】--执行成功
+2023-03-23 22:08:33,199 - [test_recharge.py-->line:60] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-23 22:08:33,199 - [test_recharge.py-->line:61] - ERROR: 1 != 2
+2023-03-23 22:08:33,512 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-23 22:08:33,512 - [test_recharge.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-23 22:08:33,813 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-23 22:08:33,813 - [test_recharge.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-23 22:08:34,123 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-23 22:08:34,123 - [test_recharge.py-->line:61] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-23 22:08:34,419 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-23 22:08:34,419 - [test_recharge.py-->line:61] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-23 22:08:34,637 - [test_register.py-->line:60] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-23 22:08:34,856 - [test_register.py-->line:60] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-23 22:08:34,982 - [test_register.py-->line:60] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-23 22:08:35,101 - [test_register.py-->line:60] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-23 22:08:35,202 - [test_register.py-->line:60] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-23 22:08:35,316 - [test_register.py-->line:60] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-23 22:08:35,427 - [test_register.py-->line:60] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-23 22:08:35,544 - [test_register.py-->line:60] - ERROR: 用例--【密码为空】--执行通过
+2023-03-23 22:08:35,639 - [test_register.py-->line:60] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-23 22:08:35,734 - [test_register.py-->line:60] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-23 22:08:35,835 - [test_register.py-->line:60] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-23 22:08:35,944 - [test_register.py-->line:60] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-23 22:08:36,062 - [test_register.py-->line:60] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-23 22:08:36,547 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-整数】--执行失败
+2023-03-23 22:08:36,912 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-1位小数】--执行失败
+2023-03-23 22:08:37,265 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-2位小数】--执行失败
+2023-03-23 22:08:37,616 - [test_withdraw.py-->line:62] - ERROR: --用例【提现成功-50万】--执行失败
+2023-03-23 22:08:37,617 - [test_withdraw.py-->line:63] - ERROR: 0 != 1002
+2023-03-23 22:08:37,972 - [test_withdraw.py-->line:66] - ERROR: --用例【会员id为空】--执行失败
+2023-03-23 22:08:38,326 - [test_withdraw.py-->line:66] - ERROR: --用例【会员id为小数】--执行失败
+2023-03-23 22:08:38,688 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为0】--执行失败
+2023-03-23 22:08:38,688 - [test_withdraw.py-->line:63] - ERROR: 2 != 0
+2023-03-23 22:08:39,050 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为负数】--执行失败
+2023-03-23 22:08:39,050 - [test_withdraw.py-->line:63] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-23 22:08:39,384 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为空】--执行失败
+2023-03-23 22:08:39,384 - [test_withdraw.py-->line:63] - ERROR: '金额为空' != '余额为空'
+- 金额为空
+? ^
++ 余额为空
+? ^
+
+2023-03-23 22:08:39,739 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额-3为小数】--执行失败
+2023-03-23 22:08:39,739 - [test_withdraw.py-->line:63] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-23 22:08:40,092 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额-大于50万】--执行失败
+2023-03-23 22:08:40,092 - [test_withdraw.py-->line:63] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-23 22:08:40,433 - [test_withdraw.py-->line:66] - ERROR: --用例【提现金额-非数字】--执行失败
+2023-03-23 22:11:11,098 - [test_login.py-->line:37] - ERROR: --用力【登录成功】--执行成功
+2023-03-23 22:11:11,194 - [test_login.py-->line:37] - ERROR: --用力【不填用户名】--执行成功
+2023-03-23 22:11:11,294 - [test_login.py-->line:37] - ERROR: --用力【用户名不足】--执行成功
+2023-03-23 22:11:11,394 - [test_login.py-->line:37] - ERROR: --用力【用户名超过】--执行成功
+2023-03-23 22:11:11,505 - [test_login.py-->line:37] - ERROR: --用力【用户名特殊字符】--执行成功
+2023-03-23 22:11:11,599 - [test_login.py-->line:37] - ERROR: --用力【不输密码】--执行成功
+2023-03-23 22:11:11,713 - [test_login.py-->line:33] - ERROR: --用力【密码小于】--执行失败
+2023-03-23 22:11:11,713 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-23 22:11:11,823 - [test_login.py-->line:33] - ERROR: --用力【密码大于】--执行失败
+2023-03-23 22:11:11,823 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-23 22:11:11,953 - [test_login.py-->line:33] - ERROR: --用力【密码特殊字符】--执行失败
+2023-03-23 22:11:11,953 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式错误'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-23 22:11:12,412 - [test_recharge.py-->line:64] - ERROR: 用例--【充值成功】--执行成功
+2023-03-23 22:11:12,736 - [test_recharge.py-->line:64] - ERROR: 用例--【id错误】--执行成功
+2023-03-23 22:11:13,057 - [test_recharge.py-->line:64] - ERROR: 用例--【不输入id】--执行成功
+2023-03-23 22:11:13,385 - [test_recharge.py-->line:60] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-23 22:11:13,385 - [test_recharge.py-->line:61] - ERROR: 1 != 2
+2023-03-23 22:11:13,689 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-23 22:11:13,689 - [test_recharge.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-23 22:11:14,018 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-23 22:11:14,018 - [test_recharge.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-23 22:11:14,320 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-23 22:11:14,320 - [test_recharge.py-->line:61] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-23 22:11:14,645 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-23 22:11:14,645 - [test_recharge.py-->line:61] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-23 22:11:14,761 - [test_register.py-->line:60] - ERROR: 用例--【密码为空】--执行通过
+2023-03-23 22:11:14,857 - [test_register.py-->line:60] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-23 22:11:14,978 - [test_register.py-->line:60] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-23 22:11:15,487 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-整数】--执行失败
+2023-03-23 22:11:15,846 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-1位小数】--执行失败
+2023-03-23 22:11:16,207 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-2位小数】--执行失败
+2023-03-23 22:11:16,568 - [test_withdraw.py-->line:62] - ERROR: --用例【提现成功-50万】--执行失败
+2023-03-23 22:11:16,568 - [test_withdraw.py-->line:63] - ERROR: 0 != 1002
+2023-03-23 22:11:16,908 - [test_withdraw.py-->line:66] - ERROR: --用例【会员id为空】--执行失败
+2023-03-23 22:11:17,252 - [test_withdraw.py-->line:66] - ERROR: --用例【会员id为小数】--执行失败
+2023-03-23 22:11:17,624 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为0】--执行失败
+2023-03-23 22:11:17,624 - [test_withdraw.py-->line:63] - ERROR: 2 != 0
+2023-03-23 22:11:17,981 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为负数】--执行失败
+2023-03-23 22:11:17,981 - [test_withdraw.py-->line:63] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-23 22:11:18,344 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为空】--执行失败
+2023-03-23 22:11:18,344 - [test_withdraw.py-->line:63] - ERROR: '金额为空' != '余额为空'
+- 金额为空
+? ^
++ 余额为空
+? ^
+
+2023-03-23 22:11:18,690 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额-3为小数】--执行失败
+2023-03-23 22:11:18,690 - [test_withdraw.py-->line:63] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-23 22:11:19,055 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额-大于50万】--执行失败
+2023-03-23 22:11:19,055 - [test_withdraw.py-->line:63] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-23 22:11:19,420 - [test_withdraw.py-->line:66] - ERROR: --用例【提现金额-非数字】--执行失败
+2023-03-23 22:13:13,687 - [test_login.py-->line:37] - ERROR: --用力【登录成功】--执行成功
+2023-03-23 22:13:13,803 - [test_login.py-->line:37] - ERROR: --用力【不填用户名】--执行成功
+2023-03-23 22:13:13,912 - [test_login.py-->line:37] - ERROR: --用力【用户名不足】--执行成功
+2023-03-23 22:13:14,012 - [test_login.py-->line:37] - ERROR: --用力【用户名超过】--执行成功
+2023-03-23 22:13:14,126 - [test_login.py-->line:37] - ERROR: --用力【用户名特殊字符】--执行成功
+2023-03-23 22:13:14,222 - [test_login.py-->line:37] - ERROR: --用力【不输密码】--执行成功
+2023-03-23 22:13:14,346 - [test_login.py-->line:33] - ERROR: --用力【密码小于】--执行失败
+2023-03-23 22:13:14,346 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-23 22:13:14,465 - [test_login.py-->line:33] - ERROR: --用力【密码大于】--执行失败
+2023-03-23 22:13:14,465 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-23 22:13:14,595 - [test_login.py-->line:33] - ERROR: --用力【密码特殊字符】--执行失败
+2023-03-23 22:13:14,595 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式错误'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-23 22:13:15,088 - [test_recharge.py-->line:64] - ERROR: 用例--【充值成功】--执行成功
+2023-03-23 22:13:15,447 - [test_recharge.py-->line:64] - ERROR: 用例--【id错误】--执行成功
+2023-03-23 22:13:15,812 - [test_recharge.py-->line:64] - ERROR: 用例--【不输入id】--执行成功
+2023-03-23 22:13:16,151 - [test_recharge.py-->line:60] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-23 22:13:16,151 - [test_recharge.py-->line:61] - ERROR: 1 != 2
+2023-03-23 22:13:16,523 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-23 22:13:16,523 - [test_recharge.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-23 22:13:16,877 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-23 22:13:16,877 - [test_recharge.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-23 22:13:17,210 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-23 22:13:17,210 - [test_recharge.py-->line:61] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-23 22:13:17,564 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-23 22:13:17,564 - [test_recharge.py-->line:61] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-23 22:13:17,814 - [test_register.py-->line:60] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-23 22:13:18,059 - [test_register.py-->line:60] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-23 22:13:18,169 - [test_register.py-->line:60] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-23 22:13:18,286 - [test_register.py-->line:60] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-23 22:13:18,386 - [test_register.py-->line:60] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-23 22:13:18,553 - [test_register.py-->line:60] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-23 22:13:18,660 - [test_register.py-->line:60] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-23 22:13:18,758 - [test_register.py-->line:60] - ERROR: 用例--【密码为空】--执行通过
+2023-03-23 22:13:18,853 - [test_register.py-->line:60] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-23 22:13:18,949 - [test_register.py-->line:60] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-23 22:13:19,070 - [test_register.py-->line:60] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-23 22:13:19,169 - [test_register.py-->line:60] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-23 22:13:19,300 - [test_register.py-->line:60] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-23 22:13:19,772 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-整数】--执行失败
+2023-03-23 22:13:20,109 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-1位小数】--执行失败
+2023-03-23 22:13:20,462 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-2位小数】--执行失败
+2023-03-23 22:13:20,807 - [test_withdraw.py-->line:62] - ERROR: --用例【提现成功-50万】--执行失败
+2023-03-23 22:13:20,807 - [test_withdraw.py-->line:63] - ERROR: 0 != 1002
+2023-03-23 22:13:21,150 - [test_withdraw.py-->line:66] - ERROR: --用例【会员id为空】--执行失败
+2023-03-23 22:13:21,500 - [test_withdraw.py-->line:66] - ERROR: --用例【会员id为小数】--执行失败
+2023-03-23 22:13:21,831 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为0】--执行失败
+2023-03-23 22:13:21,831 - [test_withdraw.py-->line:63] - ERROR: 2 != 0
+2023-03-23 22:13:22,160 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为负数】--执行失败
+2023-03-23 22:13:22,160 - [test_withdraw.py-->line:63] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-23 22:13:22,500 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为空】--执行失败
+2023-03-23 22:13:22,500 - [test_withdraw.py-->line:63] - ERROR: '金额为空' != '余额为空'
+- 金额为空
+? ^
++ 余额为空
+? ^
+
+2023-03-23 22:13:22,820 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额-3为小数】--执行失败
+2023-03-23 22:13:22,820 - [test_withdraw.py-->line:63] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-23 22:13:23,152 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额-大于50万】--执行失败
+2023-03-23 22:13:23,152 - [test_withdraw.py-->line:63] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-23 22:13:23,489 - [test_withdraw.py-->line:66] - ERROR: --用例【提现金额-非数字】--执行失败
+2023-03-24 11:48:36,673 - [test_add.py-->line:54] - INFO: --用例--【加标成功】--执行成功--
+2023-03-24 11:48:36,778 - [test_add.py-->line:54] - INFO: --用例--【加标失败-用户ID为空】--执行成功--
+2023-03-24 11:48:36,880 - [test_add.py-->line:54] - INFO: --用例--【加标失败-标题为空】--执行成功--
+2023-03-24 11:48:36,994 - [test_add.py-->line:54] - INFO: --用例--【加标失败-借款金额为空】--执行成功--
+2023-03-24 11:48:37,096 - [test_add.py-->line:54] - INFO: --用例--【加标失败-利率为空】--执行成功--
+2023-03-24 11:48:37,196 - [test_add.py-->line:50] - ERROR: --用例--【加标失败-借款年限为空】--执行失败--
+2023-03-24 11:48:37,196 - [test_add.py-->line:51] - ERROR: '借款年限为空' != '借款期限为空'
+- 借款年限为空
+?   ^
++ 借款期限为空
+?   ^
+
+2023-03-24 11:48:37,364 - [test_add.py-->line:54] - INFO: --用例--【加标失败-借款日期类型为空】--执行成功--
+2023-03-24 11:48:37,458 - [test_add.py-->line:54] - INFO: --用例--【加标失败-竞标期限为空】--执行成功--
+2023-03-24 11:48:37,571 - [test_add.py-->line:50] - ERROR: --用例--【加标失败-用户ID错误】--执行失败--
+2023-03-24 11:48:37,572 - [test_add.py-->line:51] - ERROR: 1 != 1007
+2023-03-24 11:48:37,697 - [test_add.py-->line:54] - INFO: --用例--【加标失败-借款金额大于最大值】--执行成功--
+2023-03-24 11:48:37,802 - [test_add.py-->line:50] - ERROR: --用例--【加标失败-借款金额低于最小值】--执行失败--
+2023-03-24 11:48:37,802 - [test_add.py-->line:51] - ERROR: 2 != 0
+2023-03-24 11:49:02,587 - [test_add.py-->line:54] - INFO: --用例--【加标成功】--执行成功--
+2023-03-24 11:49:02,681 - [test_add.py-->line:54] - INFO: --用例--【加标失败-用户ID为空】--执行成功--
+2023-03-24 11:49:02,776 - [test_add.py-->line:54] - INFO: --用例--【加标失败-标题为空】--执行成功--
+2023-03-24 11:49:02,899 - [test_add.py-->line:54] - INFO: --用例--【加标失败-借款金额为空】--执行成功--
+2023-03-24 11:49:03,021 - [test_add.py-->line:54] - INFO: --用例--【加标失败-利率为空】--执行成功--
+2023-03-24 11:49:03,142 - [test_add.py-->line:50] - ERROR: --用例--【加标失败-借款年限为空】--执行失败--
+2023-03-24 11:49:03,142 - [test_add.py-->line:51] - ERROR: '借款年限为空' != '借款期限为空'
+- 借款年限为空
+?   ^
++ 借款期限为空
+?   ^
+
+2023-03-24 11:49:03,314 - [test_add.py-->line:54] - INFO: --用例--【加标失败-借款日期类型为空】--执行成功--
+2023-03-24 11:49:03,415 - [test_add.py-->line:54] - INFO: --用例--【加标失败-竞标期限为空】--执行成功--
+2023-03-24 11:49:03,529 - [test_add.py-->line:50] - ERROR: --用例--【加标失败-用户ID错误】--执行失败--
+2023-03-24 11:49:03,529 - [test_add.py-->line:51] - ERROR: 1 != 1007
+2023-03-24 11:49:03,656 - [test_add.py-->line:54] - INFO: --用例--【加标失败-借款金额大于最大值】--执行成功--
+2023-03-24 11:49:03,777 - [test_add.py-->line:50] - ERROR: --用例--【加标失败-借款金额低于最小值】--执行失败--
+2023-03-24 11:49:03,777 - [test_add.py-->line:51] - ERROR: 2 != 0
+2023-03-24 11:49:04,920 - [test_add.py-->line:54] - INFO: --用例--【加标成功】--执行成功--
+2023-03-24 11:49:05,017 - [test_add.py-->line:54] - INFO: --用例--【加标失败-用户ID为空】--执行成功--
+2023-03-24 11:49:05,111 - [test_add.py-->line:54] - INFO: --用例--【加标失败-标题为空】--执行成功--
+2023-03-24 11:49:05,223 - [test_add.py-->line:54] - INFO: --用例--【加标失败-借款金额为空】--执行成功--
+2023-03-24 11:49:05,340 - [test_add.py-->line:54] - INFO: --用例--【加标失败-利率为空】--执行成功--
+2023-03-24 11:49:05,452 - [test_add.py-->line:50] - ERROR: --用例--【加标失败-借款年限为空】--执行失败--
+2023-03-24 11:49:05,453 - [test_add.py-->line:51] - ERROR: '借款年限为空' != '借款期限为空'
+- 借款年限为空
+?   ^
++ 借款期限为空
+?   ^
+
+2023-03-24 11:49:05,639 - [test_add.py-->line:54] - INFO: --用例--【加标失败-借款日期类型为空】--执行成功--
+2023-03-24 11:49:05,751 - [test_add.py-->line:54] - INFO: --用例--【加标失败-竞标期限为空】--执行成功--
+2023-03-24 11:49:05,868 - [test_add.py-->line:50] - ERROR: --用例--【加标失败-用户ID错误】--执行失败--
+2023-03-24 11:49:05,868 - [test_add.py-->line:51] - ERROR: 1 != 1007
+2023-03-24 11:49:05,964 - [test_add.py-->line:54] - INFO: --用例--【加标失败-借款金额大于最大值】--执行成功--
+2023-03-24 11:49:06,063 - [test_add.py-->line:50] - ERROR: --用例--【加标失败-借款金额低于最小值】--执行失败--
+2023-03-24 11:49:06,064 - [test_add.py-->line:51] - ERROR: 2 != 0
+2023-03-24 11:49:06,169 - [test_login.py-->line:37] - ERROR: --用力【登录成功】--执行成功
+2023-03-24 11:49:06,294 - [test_login.py-->line:37] - ERROR: --用力【不填用户名】--执行成功
+2023-03-24 11:49:06,395 - [test_login.py-->line:37] - ERROR: --用力【用户名不足】--执行成功
+2023-03-24 11:49:06,494 - [test_login.py-->line:37] - ERROR: --用力【用户名超过】--执行成功
+2023-03-24 11:49:06,611 - [test_login.py-->line:37] - ERROR: --用力【用户名特殊字符】--执行成功
+2023-03-24 11:49:06,726 - [test_login.py-->line:37] - ERROR: --用力【不输密码】--执行成功
+2023-03-24 11:49:06,839 - [test_login.py-->line:33] - ERROR: --用力【密码小于】--执行失败
+2023-03-24 11:49:06,839 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-24 11:49:06,973 - [test_login.py-->line:33] - ERROR: --用力【密码大于】--执行失败
+2023-03-24 11:49:06,974 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-24 11:49:07,099 - [test_login.py-->line:33] - ERROR: --用力【密码特殊字符】--执行失败
+2023-03-24 11:49:07,100 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式错误'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-24 11:49:07,554 - [test_recharge.py-->line:64] - ERROR: 用例--【充值成功】--执行成功
+2023-03-24 11:49:07,900 - [test_recharge.py-->line:64] - ERROR: 用例--【id错误】--执行成功
+2023-03-24 11:49:08,241 - [test_recharge.py-->line:64] - ERROR: 用例--【不输入id】--执行成功
+2023-03-24 11:49:08,574 - [test_recharge.py-->line:60] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-24 11:49:08,574 - [test_recharge.py-->line:61] - ERROR: 1 != 2
+2023-03-24 11:49:08,907 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-24 11:49:08,908 - [test_recharge.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-24 11:49:09,250 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-24 11:49:09,250 - [test_recharge.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-24 11:49:09,600 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-24 11:49:09,600 - [test_recharge.py-->line:61] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-24 11:49:09,928 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-24 11:49:09,928 - [test_recharge.py-->line:61] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-24 11:49:10,174 - [test_register.py-->line:60] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-24 11:49:10,408 - [test_register.py-->line:60] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-24 11:49:10,537 - [test_register.py-->line:60] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-24 11:49:10,647 - [test_register.py-->line:60] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-24 11:49:10,758 - [test_register.py-->line:60] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-24 11:49:10,875 - [test_register.py-->line:60] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-24 11:49:10,973 - [test_register.py-->line:60] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-24 11:49:11,068 - [test_register.py-->line:60] - ERROR: 用例--【密码为空】--执行通过
+2023-03-24 11:49:11,168 - [test_register.py-->line:60] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-24 11:49:11,279 - [test_register.py-->line:60] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-24 11:49:11,391 - [test_register.py-->line:60] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-24 11:49:11,487 - [test_register.py-->line:60] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-24 11:49:11,600 - [test_register.py-->line:60] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-24 11:49:12,051 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-整数】--执行失败
+2023-03-24 11:49:12,379 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-1位小数】--执行失败
+2023-03-24 11:49:12,734 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-2位小数】--执行失败
+2023-03-24 11:49:13,070 - [test_withdraw.py-->line:62] - ERROR: --用例【提现成功-50万】--执行失败
+2023-03-24 11:49:13,071 - [test_withdraw.py-->line:63] - ERROR: 0 != 1002
+2023-03-24 11:49:13,393 - [test_withdraw.py-->line:66] - ERROR: --用例【会员id为空】--执行失败
+2023-03-24 11:49:13,733 - [test_withdraw.py-->line:66] - ERROR: --用例【会员id为小数】--执行失败
+2023-03-24 11:49:14,076 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为0】--执行失败
+2023-03-24 11:49:14,076 - [test_withdraw.py-->line:63] - ERROR: 2 != 0
+2023-03-24 11:49:14,421 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为负数】--执行失败
+2023-03-24 11:49:14,421 - [test_withdraw.py-->line:63] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-24 11:49:14,758 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为空】--执行失败
+2023-03-24 11:49:14,758 - [test_withdraw.py-->line:63] - ERROR: '金额为空' != '余额为空'
+- 金额为空
+? ^
++ 余额为空
+? ^
+
+2023-03-24 11:49:15,093 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额-3为小数】--执行失败
+2023-03-24 11:49:15,093 - [test_withdraw.py-->line:63] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-24 11:49:15,427 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额-大于50万】--执行失败
+2023-03-24 11:49:15,428 - [test_withdraw.py-->line:63] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-24 11:49:15,766 - [test_withdraw.py-->line:66] - ERROR: --用例【提现金额-非数字】--执行失败
+2023-03-24 11:50:43,517 - [test_add.py-->line:54] - INFO: --用例--【加标成功】--执行成功--
+2023-03-24 11:50:43,883 - [test_add.py-->line:54] - INFO: --用例--【加标失败-用户ID为空】--执行成功--
+2023-03-24 11:50:43,981 - [test_add.py-->line:54] - INFO: --用例--【加标失败-标题为空】--执行成功--
+2023-03-24 11:50:44,100 - [test_add.py-->line:54] - INFO: --用例--【加标失败-借款金额为空】--执行成功--
+2023-03-24 11:50:44,215 - [test_add.py-->line:54] - INFO: --用例--【加标失败-利率为空】--执行成功--
+2023-03-24 11:50:44,310 - [test_add.py-->line:54] - INFO: --用例--【加标失败-借款年限为空】--执行成功--
+2023-03-24 11:50:44,410 - [test_add.py-->line:54] - INFO: --用例--【加标失败-借款日期类型为空】--执行成功--
+2023-03-24 11:50:44,509 - [test_add.py-->line:54] - INFO: --用例--【加标失败-竞标期限为空】--执行成功--
+2023-03-24 11:50:44,606 - [test_add.py-->line:54] - INFO: --用例--【加标失败-用户ID错误】--执行成功--
+2023-03-24 11:50:44,703 - [test_add.py-->line:54] - INFO: --用例--【加标失败-借款金额大于最大值】--执行成功--
+2023-03-24 11:50:44,808 - [test_add.py-->line:54] - INFO: --用例--【加标失败-借款金额低于最小值】--执行成功--
+2023-03-24 11:50:44,932 - [test_login.py-->line:37] - ERROR: --用力【登录成功】--执行成功
+2023-03-24 11:50:45,026 - [test_login.py-->line:37] - ERROR: --用力【不填用户名】--执行成功
+2023-03-24 11:50:45,124 - [test_login.py-->line:37] - ERROR: --用力【用户名不足】--执行成功
+2023-03-24 11:50:45,237 - [test_login.py-->line:37] - ERROR: --用力【用户名超过】--执行成功
+2023-03-24 11:50:45,333 - [test_login.py-->line:37] - ERROR: --用力【用户名特殊字符】--执行成功
+2023-03-24 11:50:45,426 - [test_login.py-->line:37] - ERROR: --用力【不输密码】--执行成功
+2023-03-24 11:50:45,555 - [test_login.py-->line:33] - ERROR: --用力【密码小于】--执行失败
+2023-03-24 11:50:45,555 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-24 11:50:45,684 - [test_login.py-->line:33] - ERROR: --用力【密码大于】--执行失败
+2023-03-24 11:50:45,684 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-24 11:50:45,801 - [test_login.py-->line:33] - ERROR: --用力【密码特殊字符】--执行失败
+2023-03-24 11:50:45,801 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式错误'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-24 11:50:46,302 - [test_recharge.py-->line:64] - ERROR: 用例--【充值成功】--执行成功
+2023-03-24 11:50:46,612 - [test_recharge.py-->line:64] - ERROR: 用例--【id错误】--执行成功
+2023-03-24 11:50:46,919 - [test_recharge.py-->line:64] - ERROR: 用例--【不输入id】--执行成功
+2023-03-24 11:50:47,228 - [test_recharge.py-->line:60] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-24 11:50:47,228 - [test_recharge.py-->line:61] - ERROR: 1 != 2
+2023-03-24 11:50:47,553 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-24 11:50:47,553 - [test_recharge.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-24 11:50:47,858 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-24 11:50:47,858 - [test_recharge.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-24 11:50:48,185 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-24 11:50:48,186 - [test_recharge.py-->line:61] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-24 11:50:48,490 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-24 11:50:48,490 - [test_recharge.py-->line:61] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-24 11:50:48,717 - [test_register.py-->line:60] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-24 11:50:48,945 - [test_register.py-->line:60] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-24 11:50:49,077 - [test_register.py-->line:60] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-24 11:50:49,190 - [test_register.py-->line:60] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-24 11:50:49,288 - [test_register.py-->line:60] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-24 11:50:49,398 - [test_register.py-->line:60] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-24 11:50:49,513 - [test_register.py-->line:60] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-24 11:50:49,609 - [test_register.py-->line:60] - ERROR: 用例--【密码为空】--执行通过
+2023-03-24 11:50:49,707 - [test_register.py-->line:60] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-24 11:50:49,818 - [test_register.py-->line:60] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-24 11:50:49,929 - [test_register.py-->line:60] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-24 11:50:50,028 - [test_register.py-->line:60] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-24 11:50:50,124 - [test_register.py-->line:60] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-24 11:50:50,590 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-整数】--执行失败
+2023-03-24 11:50:50,948 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-1位小数】--执行失败
+2023-03-24 11:50:51,296 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-2位小数】--执行失败
+2023-03-24 11:50:51,636 - [test_withdraw.py-->line:62] - ERROR: --用例【提现成功-50万】--执行失败
+2023-03-24 11:50:51,636 - [test_withdraw.py-->line:63] - ERROR: 0 != 1002
+2023-03-24 11:50:51,987 - [test_withdraw.py-->line:66] - ERROR: --用例【会员id为空】--执行失败
+2023-03-24 11:50:52,322 - [test_withdraw.py-->line:66] - ERROR: --用例【会员id为小数】--执行失败
+2023-03-24 11:50:52,671 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为0】--执行失败
+2023-03-24 11:50:52,672 - [test_withdraw.py-->line:63] - ERROR: 2 != 0
+2023-03-24 11:50:53,013 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为负数】--执行失败
+2023-03-24 11:50:53,013 - [test_withdraw.py-->line:63] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-24 11:50:53,350 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为空】--执行失败
+2023-03-24 11:50:53,350 - [test_withdraw.py-->line:63] - ERROR: '金额为空' != '余额为空'
+- 金额为空
+? ^
++ 余额为空
+? ^
+
+2023-03-24 11:50:53,672 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额-3为小数】--执行失败
+2023-03-24 11:50:53,672 - [test_withdraw.py-->line:63] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-24 11:50:54,004 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额-大于50万】--执行失败
+2023-03-24 11:50:54,005 - [test_withdraw.py-->line:63] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-24 11:50:54,351 - [test_withdraw.py-->line:66] - ERROR: --用例【提现金额-非数字】--执行失败
+2023-03-24 12:59:53,567 - [test_add.py-->line:63] - INFO: --用例--【加标成功】--执行成功--
+2023-03-24 13:01:45,311 - [test_add.py-->line:65] - INFO: --用例--【加标成功】--执行成功--
+2023-03-24 13:02:00,859 - [test_add.py-->line:65] - INFO: --用例--【加标成功】--执行成功--
+2023-03-24 13:02:02,072 - [test_login.py-->line:37] - ERROR: --用力【登录成功】--执行成功
+2023-03-24 13:02:02,187 - [test_login.py-->line:37] - ERROR: --用力【不填用户名】--执行成功
+2023-03-24 13:02:02,293 - [test_login.py-->line:37] - ERROR: --用力【用户名不足】--执行成功
+2023-03-24 13:02:02,388 - [test_login.py-->line:37] - ERROR: --用力【用户名超过】--执行成功
+2023-03-24 13:02:02,511 - [test_login.py-->line:37] - ERROR: --用力【用户名特殊字符】--执行成功
+2023-03-24 13:02:02,609 - [test_login.py-->line:37] - ERROR: --用力【不输密码】--执行成功
+2023-03-24 13:02:02,722 - [test_login.py-->line:33] - ERROR: --用力【密码小于】--执行失败
+2023-03-24 13:02:02,722 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-24 13:02:02,838 - [test_login.py-->line:33] - ERROR: --用力【密码大于】--执行失败
+2023-03-24 13:02:02,838 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-24 13:02:02,964 - [test_login.py-->line:33] - ERROR: --用力【密码特殊字符】--执行失败
+2023-03-24 13:02:02,964 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式错误'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-24 13:02:03,397 - [test_recharge.py-->line:64] - ERROR: 用例--【充值成功】--执行成功
+2023-03-24 13:02:03,705 - [test_recharge.py-->line:64] - ERROR: 用例--【id错误】--执行成功
+2023-03-24 13:02:04,026 - [test_recharge.py-->line:64] - ERROR: 用例--【不输入id】--执行成功
+2023-03-24 13:02:04,334 - [test_recharge.py-->line:60] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-24 13:02:04,334 - [test_recharge.py-->line:61] - ERROR: 1 != 2
+2023-03-24 13:02:04,646 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-24 13:02:04,647 - [test_recharge.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-24 13:02:04,956 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-24 13:02:04,956 - [test_recharge.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-24 13:02:05,293 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-24 13:02:05,293 - [test_recharge.py-->line:61] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-24 13:02:05,607 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-24 13:02:05,607 - [test_recharge.py-->line:61] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-24 13:02:05,846 - [test_register.py-->line:60] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-24 13:02:06,083 - [test_register.py-->line:60] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-24 13:02:06,197 - [test_register.py-->line:60] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-24 13:02:06,309 - [test_register.py-->line:60] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-24 13:02:06,403 - [test_register.py-->line:60] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-24 13:02:06,519 - [test_register.py-->line:60] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-24 13:02:06,628 - [test_register.py-->line:60] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-24 13:02:06,741 - [test_register.py-->line:60] - ERROR: 用例--【密码为空】--执行通过
+2023-03-24 13:02:06,845 - [test_register.py-->line:60] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-24 13:02:06,946 - [test_register.py-->line:60] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-24 13:02:07,055 - [test_register.py-->line:60] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-24 13:02:07,160 - [test_register.py-->line:60] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-24 13:02:07,275 - [test_register.py-->line:60] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-24 13:02:07,734 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-整数】--执行失败
+2023-03-24 13:02:08,061 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-1位小数】--执行失败
+2023-03-24 13:02:08,394 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-2位小数】--执行失败
+2023-03-24 13:02:08,709 - [test_withdraw.py-->line:62] - ERROR: --用例【提现成功-50万】--执行失败
+2023-03-24 13:02:08,709 - [test_withdraw.py-->line:63] - ERROR: 0 != 1002
+2023-03-24 13:02:09,050 - [test_withdraw.py-->line:66] - ERROR: --用例【会员id为空】--执行失败
+2023-03-24 13:02:09,387 - [test_withdraw.py-->line:66] - ERROR: --用例【会员id为小数】--执行失败
+2023-03-24 13:02:09,715 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为0】--执行失败
+2023-03-24 13:02:09,716 - [test_withdraw.py-->line:63] - ERROR: 2 != 0
+2023-03-24 13:02:10,055 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为负数】--执行失败
+2023-03-24 13:02:10,055 - [test_withdraw.py-->line:63] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-24 13:02:10,377 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为空】--执行失败
+2023-03-24 13:02:10,377 - [test_withdraw.py-->line:63] - ERROR: '金额为空' != '余额为空'
+- 金额为空
+? ^
++ 余额为空
+? ^
+
+2023-03-24 13:02:10,698 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额-3为小数】--执行失败
+2023-03-24 13:02:10,698 - [test_withdraw.py-->line:63] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-24 13:02:11,034 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额-大于50万】--执行失败
+2023-03-24 13:02:11,034 - [test_withdraw.py-->line:63] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-24 13:02:11,364 - [test_withdraw.py-->line:66] - ERROR: --用例【提现金额-非数字】--执行失败
+2023-03-24 13:03:44,981 - [test_add.py-->line:65] - INFO: --用例--【加标成功】--执行成功--
+2023-03-24 13:03:45,292 - [test_add.py-->line:65] - INFO: --用例--【加标失败-用户ID为空】--执行成功--
+2023-03-24 13:03:45,616 - [test_add.py-->line:65] - INFO: --用例--【加标失败-标题为空】--执行成功--
+2023-03-24 13:03:45,948 - [test_add.py-->line:65] - INFO: --用例--【加标失败-借款金额为空】--执行成功--
+2023-03-24 13:03:46,255 - [test_add.py-->line:65] - INFO: --用例--【加标失败-利率为空】--执行成功--
+2023-03-24 13:03:46,577 - [test_add.py-->line:65] - INFO: --用例--【加标失败-借款年限为空】--执行成功--
+2023-03-24 13:03:46,904 - [test_add.py-->line:65] - INFO: --用例--【加标失败-借款日期类型为空】--执行成功--
+2023-03-24 13:03:47,234 - [test_add.py-->line:65] - INFO: --用例--【加标失败-竞标期限为空】--执行成功--
+2023-03-24 13:03:47,545 - [test_add.py-->line:65] - INFO: --用例--【加标失败-用户ID错误】--执行成功--
+2023-03-24 13:03:47,850 - [test_add.py-->line:65] - INFO: --用例--【加标失败-借款金额大于最大值】--执行成功--
+2023-03-24 13:03:48,161 - [test_add.py-->line:65] - INFO: --用例--【加标失败-借款金额低于最小值】--执行成功--
+2023-03-24 13:03:48,288 - [test_login.py-->line:37] - ERROR: --用力【登录成功】--执行成功
+2023-03-24 13:03:48,388 - [test_login.py-->line:37] - ERROR: --用力【不填用户名】--执行成功
+2023-03-24 13:03:48,483 - [test_login.py-->line:37] - ERROR: --用力【用户名不足】--执行成功
+2023-03-24 13:03:48,581 - [test_login.py-->line:37] - ERROR: --用力【用户名超过】--执行成功
+2023-03-24 13:03:48,679 - [test_login.py-->line:37] - ERROR: --用力【用户名特殊字符】--执行成功
+2023-03-24 13:03:48,787 - [test_login.py-->line:37] - ERROR: --用力【不输密码】--执行成功
+2023-03-24 13:03:48,935 - [test_login.py-->line:33] - ERROR: --用力【密码小于】--执行失败
+2023-03-24 13:03:48,935 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-24 13:03:49,080 - [test_login.py-->line:33] - ERROR: --用力【密码大于】--执行失败
+2023-03-24 13:03:49,080 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-24 13:03:49,210 - [test_login.py-->line:33] - ERROR: --用力【密码特殊字符】--执行失败
+2023-03-24 13:03:49,210 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式错误'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-24 13:03:49,741 - [test_recharge.py-->line:64] - ERROR: 用例--【充值成功】--执行成功
+2023-03-24 13:03:50,122 - [test_recharge.py-->line:64] - ERROR: 用例--【id错误】--执行成功
+2023-03-24 13:03:50,494 - [test_recharge.py-->line:64] - ERROR: 用例--【不输入id】--执行成功
+2023-03-24 13:03:50,862 - [test_recharge.py-->line:60] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-24 13:03:50,862 - [test_recharge.py-->line:61] - ERROR: 1 != 2
+2023-03-24 13:03:51,229 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-24 13:03:51,229 - [test_recharge.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-24 13:03:51,575 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-24 13:03:51,576 - [test_recharge.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-24 13:03:51,938 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-24 13:03:51,938 - [test_recharge.py-->line:61] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-24 13:03:52,297 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-24 13:03:52,297 - [test_recharge.py-->line:61] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-24 13:03:52,532 - [test_register.py-->line:60] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-24 13:03:52,792 - [test_register.py-->line:60] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-24 13:03:52,935 - [test_register.py-->line:60] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-24 13:03:53,053 - [test_register.py-->line:60] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-24 13:03:53,168 - [test_register.py-->line:60] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-24 13:03:53,268 - [test_register.py-->line:60] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-24 13:03:53,377 - [test_register.py-->line:60] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-24 13:03:53,499 - [test_register.py-->line:60] - ERROR: 用例--【密码为空】--执行通过
+2023-03-24 13:03:53,603 - [test_register.py-->line:60] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-24 13:03:53,716 - [test_register.py-->line:60] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-24 13:03:53,813 - [test_register.py-->line:60] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-24 13:03:53,906 - [test_register.py-->line:60] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-24 13:03:54,022 - [test_register.py-->line:60] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-24 13:03:54,676 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-整数】--执行失败
+2023-03-24 13:03:55,004 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-1位小数】--执行失败
+2023-03-24 13:03:55,326 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-2位小数】--执行失败
+2023-03-24 13:03:55,644 - [test_withdraw.py-->line:62] - ERROR: --用例【提现成功-50万】--执行失败
+2023-03-24 13:03:55,644 - [test_withdraw.py-->line:63] - ERROR: 0 != 1002
+2023-03-24 13:03:55,948 - [test_withdraw.py-->line:66] - ERROR: --用例【会员id为空】--执行失败
+2023-03-24 13:03:56,245 - [test_withdraw.py-->line:66] - ERROR: --用例【会员id为小数】--执行失败
+2023-03-24 13:03:56,557 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为0】--执行失败
+2023-03-24 13:03:56,557 - [test_withdraw.py-->line:63] - ERROR: 2 != 0
+2023-03-24 13:03:56,859 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为负数】--执行失败
+2023-03-24 13:03:56,859 - [test_withdraw.py-->line:63] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-24 13:03:57,162 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为空】--执行失败
+2023-03-24 13:03:57,162 - [test_withdraw.py-->line:63] - ERROR: '金额为空' != '余额为空'
+- 金额为空
+? ^
++ 余额为空
+? ^
+
+2023-03-24 13:03:57,484 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额-3为小数】--执行失败
+2023-03-24 13:03:57,484 - [test_withdraw.py-->line:63] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-24 13:03:57,813 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额-大于50万】--执行失败
+2023-03-24 13:03:57,813 - [test_withdraw.py-->line:63] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-24 13:03:58,132 - [test_withdraw.py-->line:66] - ERROR: --用例【提现金额-非数字】--执行失败
+2023-03-24 18:46:29,418 - [test_audit.py-->line:73] - ERROR: 用例--【审核通过】--执行失败
+2023-03-24 18:46:29,424 - [test_audit.py-->line:74] - ERROR: 0 != 2
+2023-03-24 18:46:29,724 - [test_audit.py-->line:73] - ERROR: 用例--【审核不通过】--执行失败
+2023-03-24 18:46:29,724 - [test_audit.py-->line:74] - ERROR: 0 != 2
+2023-03-24 18:46:29,973 - [test_audit.py-->line:73] - ERROR: 用例--【项目不在审核状态】--执行失败
+2023-03-24 18:46:29,973 - [test_audit.py-->line:74] - ERROR: '项目不在审核状态' != '普通会员不能审核项目，请使用管理员账号'
+- 项目不在审核状态
++ 普通会员不能审核项目，请使用管理员账号
+
+2023-03-24 18:46:30,175 - [test_audit.py-->line:77] - ERROR: 用例--【参数approved_or_not为空】--执行通过
+2023-03-24 18:46:30,399 - [test_audit.py-->line:77] - ERROR: 用例--【项目id为空】--执行通过
+2023-03-24 18:46:30,609 - [test_audit.py-->line:73] - ERROR: 用例--【项目id不存在】--执行失败
+2023-03-24 18:46:30,609 - [test_audit.py-->line:74] - ERROR: '项目id不存在' != '项目不存在'
+- 项目id不存在
+?   --
++ 项目不存在
+
+2023-03-24 18:51:43,040 - [test_audit.py-->line:75] - ERROR: 用例--【审核通过】--执行失败
+2023-03-24 18:51:43,041 - [test_audit.py-->line:76] - ERROR: 0 != 2
+2023-03-24 18:51:43,347 - [test_audit.py-->line:75] - ERROR: 用例--【审核不通过】--执行失败
+2023-03-24 18:51:43,348 - [test_audit.py-->line:76] - ERROR: 0 != 2
+2023-03-24 18:51:43,615 - [test_audit.py-->line:75] - ERROR: 用例--【项目不在审核状态】--执行失败
+2023-03-24 18:51:43,615 - [test_audit.py-->line:76] - ERROR: '项目不在审核状态' != '普通会员不能审核项目，请使用管理员账号'
+- 项目不在审核状态
++ 普通会员不能审核项目，请使用管理员账号
+
+2023-03-24 18:51:43,858 - [test_audit.py-->line:79] - ERROR: 用例--【参数approved_or_not为空】--执行通过
+2023-03-24 18:51:44,092 - [test_audit.py-->line:79] - ERROR: 用例--【项目id为空】--执行通过
+2023-03-24 18:51:44,330 - [test_audit.py-->line:75] - ERROR: 用例--【项目id不存在】--执行失败
+2023-03-24 18:51:44,330 - [test_audit.py-->line:76] - ERROR: '项目id不存在' != '项目不存在'
+- 项目id不存在
+?   --
++ 项目不存在
+
+2023-03-24 18:59:45,194 - [test_audit.py-->line:79] - ERROR: 用例--【审核通过】--执行失败
+2023-03-24 18:59:45,194 - [test_audit.py-->line:80] - ERROR: 0 != 2
+2023-03-24 18:59:45,484 - [test_audit.py-->line:79] - ERROR: 用例--【审核不通过】--执行失败
+2023-03-24 18:59:45,484 - [test_audit.py-->line:80] - ERROR: 0 != 2
+2023-03-24 18:59:45,724 - [test_audit.py-->line:79] - ERROR: 用例--【项目不在审核状态】--执行失败
+2023-03-24 18:59:45,724 - [test_audit.py-->line:80] - ERROR: '项目不在审核状态' != '普通会员不能审核项目，请使用管理员账号'
+- 项目不在审核状态
++ 普通会员不能审核项目，请使用管理员账号
+
+2023-03-24 18:59:45,967 - [test_audit.py-->line:83] - ERROR: 用例--【参数approved_or_not为空】--执行通过
+2023-03-24 18:59:46,181 - [test_audit.py-->line:83] - ERROR: 用例--【项目id为空】--执行通过
+2023-03-24 18:59:46,395 - [test_audit.py-->line:83] - ERROR: 用例--【项目id不存在】--执行通过
+2023-03-24 19:06:06,908 - [test_audit.py-->line:84] - ERROR: 用例--【审核通过】--执行失败
+2023-03-24 19:06:06,908 - [test_audit.py-->line:85] - ERROR: 0 != 2
+2023-03-24 19:06:07,173 - [test_audit.py-->line:84] - ERROR: 用例--【审核不通过】--执行失败
+2023-03-24 19:06:07,173 - [test_audit.py-->line:85] - ERROR: 0 != 2
+2023-03-24 19:06:07,426 - [test_audit.py-->line:84] - ERROR: 用例--【项目不在审核状态】--执行失败
+2023-03-24 19:06:07,427 - [test_audit.py-->line:85] - ERROR: '项目不在审核状态' != '普通会员不能审核项目，请使用管理员账号'
+- 项目不在审核状态
++ 普通会员不能审核项目，请使用管理员账号
+
+2023-03-24 19:06:07,631 - [test_audit.py-->line:88] - ERROR: 用例--【参数approved_or_not为空】--执行通过
+2023-03-24 19:06:07,874 - [test_audit.py-->line:88] - ERROR: 用例--【项目id为空】--执行通过
+2023-03-24 19:06:08,094 - [test_audit.py-->line:88] - ERROR: 用例--【项目id不存在】--执行通过
+2023-03-24 19:07:27,677 - [test_audit.py-->line:85] - ERROR: 用例--【审核通过】--执行失败
+2023-03-24 19:07:27,677 - [test_audit.py-->line:86] - ERROR: 0 != 2
+2023-03-24 19:07:27,964 - [test_audit.py-->line:85] - ERROR: 用例--【审核不通过】--执行失败
+2023-03-24 19:07:27,965 - [test_audit.py-->line:86] - ERROR: 0 != 2
+2023-03-24 19:07:28,203 - [test_audit.py-->line:85] - ERROR: 用例--【项目不在审核状态】--执行失败
+2023-03-24 19:07:28,203 - [test_audit.py-->line:86] - ERROR: '项目不在审核状态' != '普通会员不能审核项目，请使用管理员账号'
+- 项目不在审核状态
++ 普通会员不能审核项目，请使用管理员账号
+
+2023-03-24 19:07:28,449 - [test_audit.py-->line:89] - ERROR: 用例--【参数approved_or_not为空】--执行通过
+2023-03-24 19:07:28,677 - [test_audit.py-->line:89] - ERROR: 用例--【项目id为空】--执行通过
+2023-03-24 19:07:28,906 - [test_audit.py-->line:89] - ERROR: 用例--【项目id不存在】--执行通过
+2023-03-24 19:10:34,815 - [test_audit.py-->line:89] - ERROR: 用例--【审核通过】--执行通过
+2023-03-24 19:10:35,069 - [test_audit.py-->line:89] - ERROR: 用例--【审核不通过】--执行通过
+2023-03-24 19:10:35,315 - [test_audit.py-->line:85] - ERROR: 用例--【项目不在审核状态】--执行失败
+2023-03-24 19:10:35,316 - [test_audit.py-->line:86] - ERROR: 2 != 0
+2023-03-24 19:10:35,575 - [test_audit.py-->line:89] - ERROR: 用例--【参数approved_or_not为空】--执行通过
+2023-03-24 19:10:35,799 - [test_audit.py-->line:89] - ERROR: 用例--【项目id为空】--执行通过
+2023-03-24 19:10:36,029 - [test_audit.py-->line:89] - ERROR: 用例--【项目id不存在】--执行通过
+2023-03-24 19:11:32,272 - [test_audit.py-->line:90] - ERROR: 用例--【审核通过】--执行通过
+2023-03-24 19:11:32,506 - [test_audit.py-->line:90] - ERROR: 用例--【审核不通过】--执行通过
+2023-03-24 19:11:32,710 - [test_audit.py-->line:86] - ERROR: 用例--【项目不在审核状态】--执行失败
+2023-03-24 19:11:32,711 - [test_audit.py-->line:87] - ERROR: 2 != 0
+2023-03-24 19:11:33,011 - [test_audit.py-->line:90] - ERROR: 用例--【参数approved_or_not为空】--执行通过
+2023-03-24 19:11:33,213 - [test_audit.py-->line:90] - ERROR: 用例--【项目id为空】--执行通过
+2023-03-24 19:11:33,430 - [test_audit.py-->line:90] - ERROR: 用例--【项目id不存在】--执行通过
+2023-03-24 19:13:02,826 - [test_audit.py-->line:91] - ERROR: 用例--【审核通过】--执行通过
+2023-03-24 19:13:03,060 - [test_audit.py-->line:91] - ERROR: 用例--【审核不通过】--执行通过
+2023-03-24 19:13:03,286 - [test_audit.py-->line:87] - ERROR: 用例--【项目不在审核状态】--执行失败
+2023-03-24 19:13:03,286 - [test_audit.py-->line:88] - ERROR: 2 != 0
+2023-03-24 19:13:03,553 - [test_audit.py-->line:91] - ERROR: 用例--【参数approved_or_not为空】--执行通过
+2023-03-24 19:13:03,763 - [test_audit.py-->line:91] - ERROR: 用例--【项目id为空】--执行通过
+2023-03-24 19:13:03,989 - [test_audit.py-->line:91] - ERROR: 用例--【项目id不存在】--执行通过
+2023-03-24 19:14:30,506 - [test_audit.py-->line:91] - ERROR: 用例--【审核通过】--执行通过
+2023-03-24 19:14:30,732 - [test_audit.py-->line:91] - ERROR: 用例--【审核不通过】--执行通过
+2023-03-24 19:14:30,961 - [test_audit.py-->line:87] - ERROR: 用例--【项目不在审核状态】--执行失败
+2023-03-24 19:14:30,961 - [test_audit.py-->line:88] - ERROR: 2 != 0
+2023-03-24 19:14:31,249 - [test_audit.py-->line:91] - ERROR: 用例--【参数approved_or_not为空】--执行通过
+2023-03-24 19:14:31,449 - [test_audit.py-->line:91] - ERROR: 用例--【项目id为空】--执行通过
+2023-03-24 19:14:31,666 - [test_audit.py-->line:91] - ERROR: 用例--【项目id不存在】--执行通过
+2023-03-24 19:17:39,271 - [test_audit.py-->line:92] - ERROR: 用例--【审核通过】--执行通过
+2023-03-24 19:17:39,495 - [test_audit.py-->line:92] - ERROR: 用例--【审核不通过】--执行通过
+2023-03-24 19:17:39,717 - [test_audit.py-->line:88] - ERROR: 用例--【项目不在审核状态】--执行失败
+2023-03-24 19:17:39,717 - [test_audit.py-->line:89] - ERROR: 2 != 0
+2023-03-24 19:17:40,002 - [test_audit.py-->line:92] - ERROR: 用例--【参数approved_or_not为空】--执行通过
+2023-03-24 19:17:40,231 - [test_audit.py-->line:92] - ERROR: 用例--【项目id为空】--执行通过
+2023-03-24 19:17:40,536 - [test_audit.py-->line:92] - ERROR: 用例--【项目id不存在】--执行通过
+2023-03-24 19:24:55,436 - [test_audit.py-->line:92] - ERROR: 用例--【审核通过】--执行通过
+2023-03-24 19:24:55,694 - [test_audit.py-->line:92] - ERROR: 用例--【审核不通过】--执行通过
+2023-03-24 19:24:55,924 - [test_audit.py-->line:88] - ERROR: 用例--【项目不在审核状态】--执行失败
+2023-03-24 19:24:55,924 - [test_audit.py-->line:89] - ERROR: '项目不在审核状态' != '项目不在审核中状态'
+- 项目不在审核状态
++ 项目不在审核中状态
+?       +
+
+2023-03-24 19:24:56,217 - [test_audit.py-->line:92] - ERROR: 用例--【参数approved_or_not为空】--执行通过
+2023-03-24 19:24:56,451 - [test_audit.py-->line:92] - ERROR: 用例--【项目id为空】--执行通过
+2023-03-24 19:24:56,673 - [test_audit.py-->line:92] - ERROR: 用例--【项目id不存在】--执行通过
+2023-03-24 19:25:26,714 - [test_audit.py-->line:92] - ERROR: 用例--【审核通过】--执行通过
+2023-03-24 19:25:26,952 - [test_audit.py-->line:92] - ERROR: 用例--【审核不通过】--执行通过
+2023-03-24 19:25:27,180 - [test_audit.py-->line:92] - ERROR: 用例--【项目不在审核状态】--执行通过
+2023-03-24 19:25:27,408 - [test_audit.py-->line:92] - ERROR: 用例--【参数approved_or_not为空】--执行通过
+2023-03-24 19:25:27,638 - [test_audit.py-->line:92] - ERROR: 用例--【项目id为空】--执行通过
+2023-03-24 19:25:27,872 - [test_audit.py-->line:92] - ERROR: 用例--【项目id不存在】--执行通过
+2023-03-24 19:29:04,123 - [test_audit.py-->line:92] - ERROR: 用例--【审核通过】--执行通过
+2023-03-24 19:29:04,337 - [test_audit.py-->line:92] - ERROR: 用例--【审核不通过】--执行通过
+2023-03-24 19:29:04,574 - [test_audit.py-->line:92] - ERROR: 用例--【项目不在审核状态】--执行通过
+2023-03-24 19:29:04,810 - [test_audit.py-->line:92] - ERROR: 用例--【参数approved_or_not为空】--执行通过
+2023-03-24 19:29:05,007 - [test_audit.py-->line:92] - ERROR: 用例--【项目id为空】--执行通过
+2023-03-24 19:29:05,232 - [test_audit.py-->line:92] - ERROR: 用例--【项目id不存在】--执行通过
+2023-03-24 19:32:21,187 - [test_audit.py-->line:92] - ERROR: 用例--【审核通过】--执行通过
+2023-03-24 19:32:21,432 - [test_audit.py-->line:92] - ERROR: 用例--【审核不通过】--执行通过
+2023-03-24 19:32:21,658 - [test_audit.py-->line:92] - ERROR: 用例--【项目不在审核状态】--执行通过
+2023-03-24 19:32:21,902 - [test_audit.py-->line:92] - ERROR: 用例--【参数approved_or_not为空】--执行通过
+2023-03-24 19:32:22,127 - [test_audit.py-->line:92] - ERROR: 用例--【项目id为空】--执行通过
+2023-03-24 19:32:22,338 - [test_audit.py-->line:92] - ERROR: 用例--【项目id不存在】--执行通过
+2023-03-24 19:33:01,980 - [test_add.py-->line:65] - INFO: --用例--【加标成功】--执行成功--
+2023-03-24 19:33:02,276 - [test_add.py-->line:65] - INFO: --用例--【加标失败-用户ID为空】--执行成功--
+2023-03-24 19:33:02,571 - [test_add.py-->line:65] - INFO: --用例--【加标失败-标题为空】--执行成功--
+2023-03-24 19:33:02,886 - [test_add.py-->line:65] - INFO: --用例--【加标失败-借款金额为空】--执行成功--
+2023-03-24 19:33:03,199 - [test_add.py-->line:65] - INFO: --用例--【加标失败-利率为空】--执行成功--
+2023-03-24 19:33:03,495 - [test_add.py-->line:65] - INFO: --用例--【加标失败-借款年限为空】--执行成功--
+2023-03-24 19:33:03,814 - [test_add.py-->line:65] - INFO: --用例--【加标失败-借款日期类型为空】--执行成功--
+2023-03-24 19:33:04,144 - [test_add.py-->line:65] - INFO: --用例--【加标失败-竞标期限为空】--执行成功--
+2023-03-24 19:33:04,461 - [test_add.py-->line:65] - INFO: --用例--【加标失败-用户ID错误】--执行成功--
+2023-03-24 19:33:04,777 - [test_add.py-->line:65] - INFO: --用例--【加标失败-借款金额大于最大值】--执行成功--
+2023-03-24 19:33:05,103 - [test_add.py-->line:65] - INFO: --用例--【加标失败-借款金额低于最小值】--执行成功--
+2023-03-24 19:33:05,581 - [test_audit.py-->line:92] - ERROR: 用例--【审核通过】--执行通过
+2023-03-24 19:33:05,785 - [test_audit.py-->line:92] - ERROR: 用例--【审核不通过】--执行通过
+2023-03-24 19:33:05,983 - [test_audit.py-->line:92] - ERROR: 用例--【项目不在审核状态】--执行通过
+2023-03-24 19:33:06,194 - [test_audit.py-->line:92] - ERROR: 用例--【参数approved_or_not为空】--执行通过
+2023-03-24 19:33:06,413 - [test_audit.py-->line:92] - ERROR: 用例--【项目id为空】--执行通过
+2023-03-24 19:33:06,630 - [test_audit.py-->line:92] - ERROR: 用例--【项目id不存在】--执行通过
+2023-03-24 19:33:06,741 - [test_login.py-->line:37] - ERROR: --用力【登录成功】--执行成功
+2023-03-24 19:33:06,836 - [test_login.py-->line:37] - ERROR: --用力【不填用户名】--执行成功
+2023-03-24 19:33:06,956 - [test_login.py-->line:37] - ERROR: --用力【用户名不足】--执行成功
+2023-03-24 19:33:07,065 - [test_login.py-->line:37] - ERROR: --用力【用户名超过】--执行成功
+2023-03-24 19:33:07,169 - [test_login.py-->line:37] - ERROR: --用力【用户名特殊字符】--执行成功
+2023-03-24 19:33:07,266 - [test_login.py-->line:37] - ERROR: --用力【不输密码】--执行成功
+2023-03-24 19:33:07,396 - [test_login.py-->line:33] - ERROR: --用力【密码小于】--执行失败
+2023-03-24 19:33:07,396 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-24 19:33:07,569 - [test_login.py-->line:33] - ERROR: --用力【密码大于】--执行失败
+2023-03-24 19:33:07,569 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-24 19:33:07,687 - [test_login.py-->line:33] - ERROR: --用力【密码特殊字符】--执行失败
+2023-03-24 19:33:07,687 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式错误'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-24 19:33:08,152 - [test_recharge.py-->line:64] - ERROR: 用例--【充值成功】--执行成功
+2023-03-24 19:33:08,469 - [test_recharge.py-->line:64] - ERROR: 用例--【id错误】--执行成功
+2023-03-24 19:33:08,789 - [test_recharge.py-->line:64] - ERROR: 用例--【不输入id】--执行成功
+2023-03-24 19:33:09,095 - [test_recharge.py-->line:60] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-24 19:33:09,095 - [test_recharge.py-->line:61] - ERROR: 1 != 2
+2023-03-24 19:33:09,431 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-24 19:33:09,432 - [test_recharge.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-24 19:33:09,739 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-24 19:33:09,739 - [test_recharge.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-24 19:33:10,053 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-24 19:33:10,054 - [test_recharge.py-->line:61] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-24 19:33:10,383 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-24 19:33:10,383 - [test_recharge.py-->line:61] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-24 19:33:10,615 - [test_register.py-->line:60] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-24 19:33:10,850 - [test_register.py-->line:60] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-24 19:33:10,979 - [test_register.py-->line:60] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-24 19:33:11,075 - [test_register.py-->line:60] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-24 19:33:11,186 - [test_register.py-->line:60] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-24 19:33:11,279 - [test_register.py-->line:60] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-24 19:33:11,389 - [test_register.py-->line:60] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-24 19:33:11,487 - [test_register.py-->line:60] - ERROR: 用例--【密码为空】--执行通过
+2023-03-24 19:33:11,582 - [test_register.py-->line:60] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-24 19:33:11,675 - [test_register.py-->line:60] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-24 19:33:11,780 - [test_register.py-->line:60] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-24 19:33:11,898 - [test_register.py-->line:60] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-24 19:33:12,001 - [test_register.py-->line:60] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-24 19:33:12,455 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-整数】--执行失败
+2023-03-24 19:33:12,776 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-1位小数】--执行失败
+2023-03-24 19:33:13,100 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-2位小数】--执行失败
+2023-03-24 19:33:13,414 - [test_withdraw.py-->line:62] - ERROR: --用例【提现成功-50万】--执行失败
+2023-03-24 19:33:13,414 - [test_withdraw.py-->line:63] - ERROR: 0 != 1002
+2023-03-24 19:33:13,735 - [test_withdraw.py-->line:66] - ERROR: --用例【会员id为空】--执行失败
+2023-03-24 19:33:14,055 - [test_withdraw.py-->line:66] - ERROR: --用例【会员id为小数】--执行失败
+2023-03-24 19:33:14,375 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为0】--执行失败
+2023-03-24 19:33:14,375 - [test_withdraw.py-->line:63] - ERROR: 2 != 0
+2023-03-24 19:33:14,682 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为负数】--执行失败
+2023-03-24 19:33:14,683 - [test_withdraw.py-->line:63] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-24 19:33:14,991 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为空】--执行失败
+2023-03-24 19:33:14,991 - [test_withdraw.py-->line:63] - ERROR: '金额为空' != '余额为空'
+- 金额为空
+? ^
++ 余额为空
+? ^
+
+2023-03-24 19:33:15,289 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额-3为小数】--执行失败
+2023-03-24 19:33:15,289 - [test_withdraw.py-->line:63] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-24 19:33:15,586 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额-大于50万】--执行失败
+2023-03-24 19:33:15,586 - [test_withdraw.py-->line:63] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-24 19:33:15,885 - [test_withdraw.py-->line:66] - ERROR: --用例【提现金额-非数字】--执行失败
+2023-03-24 19:34:21,947 - [test_audit.py-->line:93] - ERROR: 用例--【审核通过】--执行通过
+2023-03-24 19:34:22,193 - [test_audit.py-->line:93] - ERROR: 用例--【审核不通过】--执行通过
+2023-03-24 19:34:22,402 - [test_audit.py-->line:93] - ERROR: 用例--【项目不在审核状态】--执行通过
+2023-03-24 19:34:22,600 - [test_audit.py-->line:93] - ERROR: 用例--【参数approved_or_not为空】--执行通过
+2023-03-24 19:34:22,823 - [test_audit.py-->line:93] - ERROR: 用例--【项目id为空】--执行通过
+2023-03-24 19:34:23,027 - [test_audit.py-->line:93] - ERROR: 用例--【项目id不存在】--执行通过
+2023-03-24 19:35:38,488 - [test_audit.py-->line:91] - ERROR: 用例--【审核通过】--执行通过
+2023-03-24 19:35:38,838 - [test_audit.py-->line:91] - ERROR: 用例--【审核不通过】--执行通过
+2023-03-24 19:35:39,051 - [test_audit.py-->line:91] - ERROR: 用例--【项目不在审核状态】--执行通过
+2023-03-24 19:35:39,291 - [test_audit.py-->line:91] - ERROR: 用例--【参数approved_or_not为空】--执行通过
+2023-03-24 19:35:39,504 - [test_audit.py-->line:91] - ERROR: 用例--【项目id为空】--执行通过
+2023-03-24 19:35:39,715 - [test_audit.py-->line:91] - ERROR: 用例--【项目id不存在】--执行通过
+2023-03-24 19:37:33,316 - [test_audit.py-->line:86] - ERROR: 用例--【审核通过】--执行失败
+2023-03-24 19:37:33,316 - [test_audit.py-->line:87] - ERROR: '2' != 2
+2023-03-24 19:37:33,701 - [test_audit.py-->line:86] - ERROR: 用例--【审核不通过】--执行失败
+2023-03-24 19:37:33,701 - [test_audit.py-->line:87] - ERROR: '5' != 5
+2023-03-24 19:37:33,936 - [test_audit.py-->line:90] - ERROR: 用例--【项目不在审核状态】--执行通过
+2023-03-24 19:37:34,169 - [test_audit.py-->line:90] - ERROR: 用例--【参数approved_or_not为空】--执行通过
+2023-03-24 19:37:34,396 - [test_audit.py-->line:90] - ERROR: 用例--【项目id为空】--执行通过
+2023-03-24 19:37:34,655 - [test_audit.py-->line:90] - ERROR: 用例--【项目id不存在】--执行通过
+2023-03-24 19:38:32,353 - [test_audit.py-->line:90] - ERROR: 用例--【审核通过】--执行通过
+2023-03-24 19:38:32,711 - [test_audit.py-->line:90] - ERROR: 用例--【审核不通过】--执行通过
+2023-03-24 19:38:32,937 - [test_audit.py-->line:90] - ERROR: 用例--【项目不在审核状态】--执行通过
+2023-03-24 19:38:33,178 - [test_audit.py-->line:90] - ERROR: 用例--【参数approved_or_not为空】--执行通过
+2023-03-24 19:38:33,426 - [test_audit.py-->line:90] - ERROR: 用例--【项目id为空】--执行通过
+2023-03-24 19:38:33,644 - [test_audit.py-->line:90] - ERROR: 用例--【项目id不存在】--执行通过
+2023-03-24 19:38:49,837 - [test_add.py-->line:65] - INFO: --用例--【加标成功】--执行成功--
+2023-03-24 19:38:50,139 - [test_add.py-->line:65] - INFO: --用例--【加标失败-用户ID为空】--执行成功--
+2023-03-24 19:38:50,439 - [test_add.py-->line:65] - INFO: --用例--【加标失败-标题为空】--执行成功--
+2023-03-24 19:38:50,763 - [test_add.py-->line:65] - INFO: --用例--【加标失败-借款金额为空】--执行成功--
+2023-03-24 19:38:51,095 - [test_add.py-->line:65] - INFO: --用例--【加标失败-利率为空】--执行成功--
+2023-03-24 19:38:51,404 - [test_add.py-->line:65] - INFO: --用例--【加标失败-借款年限为空】--执行成功--
+2023-03-24 19:38:51,731 - [test_add.py-->line:65] - INFO: --用例--【加标失败-借款日期类型为空】--执行成功--
+2023-03-24 19:38:52,030 - [test_add.py-->line:65] - INFO: --用例--【加标失败-竞标期限为空】--执行成功--
+2023-03-24 19:38:52,336 - [test_add.py-->line:65] - INFO: --用例--【加标失败-用户ID错误】--执行成功--
+2023-03-24 19:38:52,644 - [test_add.py-->line:65] - INFO: --用例--【加标失败-借款金额大于最大值】--执行成功--
+2023-03-24 19:38:52,961 - [test_add.py-->line:65] - INFO: --用例--【加标失败-借款金额低于最小值】--执行成功--
+2023-03-24 19:38:53,530 - [test_audit.py-->line:90] - ERROR: 用例--【审核通过】--执行通过
+2023-03-24 19:38:53,884 - [test_audit.py-->line:90] - ERROR: 用例--【审核不通过】--执行通过
+2023-03-24 19:38:54,158 - [test_audit.py-->line:90] - ERROR: 用例--【项目不在审核状态】--执行通过
+2023-03-24 19:38:54,370 - [test_audit.py-->line:90] - ERROR: 用例--【参数approved_or_not为空】--执行通过
+2023-03-24 19:38:54,602 - [test_audit.py-->line:90] - ERROR: 用例--【项目id为空】--执行通过
+2023-03-24 19:38:54,818 - [test_audit.py-->line:90] - ERROR: 用例--【项目id不存在】--执行通过
+2023-03-24 19:38:54,944 - [test_login.py-->line:37] - ERROR: --用力【登录成功】--执行成功
+2023-03-24 19:38:55,053 - [test_login.py-->line:37] - ERROR: --用力【不填用户名】--执行成功
+2023-03-24 19:38:55,157 - [test_login.py-->line:37] - ERROR: --用力【用户名不足】--执行成功
+2023-03-24 19:38:55,266 - [test_login.py-->line:37] - ERROR: --用力【用户名超过】--执行成功
+2023-03-24 19:38:55,390 - [test_login.py-->line:37] - ERROR: --用力【用户名特殊字符】--执行成功
+2023-03-24 19:38:55,501 - [test_login.py-->line:37] - ERROR: --用力【不输密码】--执行成功
+2023-03-24 19:38:55,618 - [test_login.py-->line:33] - ERROR: --用力【密码小于】--执行失败
+2023-03-24 19:38:55,618 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-24 19:38:55,746 - [test_login.py-->line:33] - ERROR: --用力【密码大于】--执行失败
+2023-03-24 19:38:55,746 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式为8到16位'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-24 19:38:55,875 - [test_login.py-->line:33] - ERROR: --用力【密码特殊字符】--执行失败
+2023-03-24 19:38:55,875 - [test_login.py-->line:34] - ERROR: {'code': 2, 'msg': '密码格式错误'} not in {'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2023-03-24 19:38:56,309 - [test_recharge.py-->line:64] - ERROR: 用例--【充值成功】--执行成功
+2023-03-24 19:38:56,627 - [test_recharge.py-->line:64] - ERROR: 用例--【id错误】--执行成功
+2023-03-24 19:38:56,961 - [test_recharge.py-->line:64] - ERROR: 用例--【不输入id】--执行成功
+2023-03-24 19:38:57,275 - [test_recharge.py-->line:60] - ERROR: 用例--【不输入金额】--执行失败
+2023-03-24 19:38:57,275 - [test_recharge.py-->line:61] - ERROR: 1 != 2
+2023-03-24 19:38:57,589 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额为负数】--执行失败
+2023-03-24 19:38:57,590 - [test_recharge.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-24 19:38:57,886 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额为500001】--执行失败
+2023-03-24 19:38:57,886 - [test_recharge.py-->line:61] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2023-03-24 19:38:58,179 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额非数字】--执行失败
+2023-03-24 19:38:58,179 - [test_recharge.py-->line:61] - ERROR: '金额必须为数值型' != '余额必须为数值型'
+- 金额必须为数值型
+? ^
++ 余额必须为数值型
+? ^
+
+2023-03-24 19:38:58,481 - [test_recharge.py-->line:60] - ERROR: 用例--【充值金额小数点3位】--执行失败
+2023-03-24 19:38:58,481 - [test_recharge.py-->line:61] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-24 19:38:58,724 - [test_register.py-->line:60] - ERROR: 用例--【注册成功-带用户名】--执行通过
+2023-03-24 19:38:58,956 - [test_register.py-->line:60] - ERROR: 用例--【注册成功-不带用户名】--执行通过
+2023-03-24 19:38:59,068 - [test_register.py-->line:60] - ERROR: 用例--【账号已存在】--执行通过
+2023-03-24 19:38:59,185 - [test_register.py-->line:60] - ERROR: 用例--【手机号为空】--执行通过
+2023-03-24 19:38:59,298 - [test_register.py-->line:60] - ERROR: 用例--【手机号为10位】--执行通过
+2023-03-24 19:38:59,395 - [test_register.py-->line:60] - ERROR: 用例--【手机号为12位】--执行通过
+2023-03-24 19:38:59,493 - [test_register.py-->line:60] - ERROR: 用例--【手机号含有非法字符】--执行通过
+2023-03-24 19:38:59,586 - [test_register.py-->line:60] - ERROR: 用例--【密码为空】--执行通过
+2023-03-24 19:38:59,699 - [test_register.py-->line:60] - ERROR: 用例--【密码为7位】--执行通过
+2023-03-24 19:38:59,795 - [test_register.py-->line:60] - ERROR: 用例--【密码为17位】--执行通过
+2023-03-24 19:38:59,891 - [test_register.py-->line:60] - ERROR: 用例--【注册名11位】--执行通过
+2023-03-24 19:39:00,004 - [test_register.py-->line:60] - ERROR: 用例--【类型输入非0，1】--执行通过
+2023-03-24 19:39:00,101 - [test_register.py-->line:60] - ERROR: 用例--【手机号为字符串类型】--执行通过
+2023-03-24 19:39:00,588 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-整数】--执行失败
+2023-03-24 19:39:00,960 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-1位小数】--执行失败
+2023-03-24 19:39:01,392 - [test_withdraw.py-->line:66] - ERROR: --用例【提现成功-2位小数】--执行失败
+2023-03-24 19:39:01,739 - [test_withdraw.py-->line:62] - ERROR: --用例【提现成功-50万】--执行失败
+2023-03-24 19:39:01,739 - [test_withdraw.py-->line:63] - ERROR: 0 != 1002
+2023-03-24 19:39:02,089 - [test_withdraw.py-->line:66] - ERROR: --用例【会员id为空】--执行失败
+2023-03-24 19:39:02,434 - [test_withdraw.py-->line:66] - ERROR: --用例【会员id为小数】--执行失败
+2023-03-24 19:39:02,807 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为0】--执行失败
+2023-03-24 19:39:02,807 - [test_withdraw.py-->line:63] - ERROR: 2 != 0
+2023-03-24 19:39:03,164 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为负数】--执行失败
+2023-03-24 19:39:03,165 - [test_withdraw.py-->line:63] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-24 19:39:03,504 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额为空】--执行失败
+2023-03-24 19:39:03,505 - [test_withdraw.py-->line:63] - ERROR: '金额为空' != '余额为空'
+- 金额为空
+? ^
++ 余额为空
+? ^
+
+2023-03-24 19:39:03,840 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额-3为小数】--执行失败
+2023-03-24 19:39:03,841 - [test_withdraw.py-->line:63] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2023-03-24 19:39:04,183 - [test_withdraw.py-->line:62] - ERROR: --用例【提现金额-大于50万】--执行失败
+2023-03-24 19:39:04,183 - [test_withdraw.py-->line:63] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于5000000
+? ^                    +
+
+2023-03-24 19:39:04,524 - [test_withdraw.py-->line:66] - ERROR: --用例【提现金额-非数字】--执行失败
