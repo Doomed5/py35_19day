@@ -7,8 +7,8 @@ from unittestreport import ddt, list_data
 
 from common.handle_conf import conf
 from common.handle_excel import HandleExcel
-from common.handle_path import DATA_DIR
 from common.handle_mysql import HandleDb
+from common.handle_path import DATA_DIR
 from common.handle_tools import replace_data
 from common.handler_log import my_log
 
@@ -80,8 +80,9 @@ class TestAudit(unittest.TestCase):
             if item['check_sql']:
                 sql = item['check_sql'].format(self.loan_id)
                 status = self.db.find_one(sql)[0]
-                print('数据库中的状态', status)
-                self.assertEqual(eval(excepted['status']),status)
+                # print('数据库中的状态', status)
+                # print(excepted['status'])
+                self.assertEqual(excepted['status'], status)
         except AssertionError as e:
             my_log.error('用例--【{}】--执行失败'.format(item['title']))
             my_log.error(e)

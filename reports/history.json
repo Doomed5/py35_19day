@@ -1,1 +1,332 @@
-[{"success": 9, "all": 13, "fail": 4, "skip": 0, "error": 0, "runtime": "1.78 S", "begin_time": "2023-03-21 22:53:01", "pass_rate": "69.23"}, {"success": 9, "all": 13, "fail": 4, "skip": 0, "error": 0, "runtime": "1.48 S", "begin_time": "2023-03-21 22:56:18", "pass_rate": "69.23"}, {"success": 11, "all": 13, "fail": 2, "skip": 0, "error": 0, "runtime": "1.51 S", "begin_time": "2023-03-21 22:58:32", "pass_rate": "84.62"}, {"success": 13, "all": 13, "fail": 0, "skip": 0, "error": 0, "runtime": "1.53 S", "begin_time": "2023-03-21 23:07:11", "pass_rate": "100.00"}, {"success": 13, "all": 13, "fail": 0, "skip": 0, "error": 0, "runtime": "1.40 S", "begin_time": "2023-03-21 23:10:26", "pass_rate": "100.00"}, {"success": 11, "all": 22, "fail": 10, "skip": 0, "error": 1, "runtime": "2.51 S", "begin_time": "2023-03-22 21:01:38", "pass_rate": "50.00"}, {"success": 11, "all": 22, "fail": 10, "skip": 0, "error": 1, "runtime": "2.44 S", "begin_time": "2023-03-22 21:03:32", "pass_rate": "50.00"}, {"success": 19, "all": 22, "fail": 2, "skip": 0, "error": 1, "runtime": "2.44 S", "begin_time": "2023-03-22 21:06:03", "pass_rate": "86.36"}, {"success": 16, "all": 22, "fail": 5, "skip": 0, "error": 1, "runtime": "2.50 S", "begin_time": "2023-03-22 21:20:57", "pass_rate": "72.73"}, {"success": 16, "all": 30, "fail": 5, "skip": 0, "error": 9, "runtime": "2.44 S", "begin_time": "2023-03-22 21:32:03", "pass_rate": "53.33"}, {"success": 16, "all": 30, "fail": 5, "skip": 0, "error": 9, "runtime": "3.41 S", "begin_time": "2023-03-22 21:32:58", "pass_rate": "53.33"}, {"success": 16, "all": 30, "fail": 5, "skip": 0, "error": 9, "runtime": "3.51 S", "begin_time": "2023-03-22 21:33:32", "pass_rate": "53.33"}, {"success": 16, "all": 30, "fail": 5, "skip": 0, "error": 9, "runtime": "3.41 S", "begin_time": "2023-03-22 21:35:00", "pass_rate": "53.33"}, {"success": 16, "all": 30, "fail": 14, "skip": 0, "error": 0, "runtime": "3.48 S", "begin_time": "2023-03-22 21:35:38", "pass_rate": "53.33"}, {"success": 21, "all": 30, "fail": 9, "skip": 0, "error": 0, "runtime": "3.41 S", "begin_time": "2023-03-22 21:42:06", "pass_rate": "70.00"}, {"success": 27, "all": 42, "fail": 14, "skip": 0, "error": 1, "runtime": "4.93 S", "begin_time": "2023-03-22 23:02:43", "pass_rate": "64.29"}, {"success": 27, "all": 42, "fail": 14, "skip": 0, "error": 1, "runtime": "4.94 S", "begin_time": "2023-03-22 23:03:51", "pass_rate": "64.29"}, {"success": 28, "all": 42, "fail": 14, "skip": 0, "error": 0, "runtime": "4.89 S", "begin_time": "2023-03-22 23:06:06", "pass_rate": "66.67"}, {"success": 28, "all": 42, "fail": 14, "skip": 0, "error": 0, "runtime": "7.92 S", "begin_time": "2023-03-23 18:38:10", "pass_rate": "66.67"}, {"success": 22, "all": 42, "fail": 20, "skip": 0, "error": 0, "runtime": "9.57 S", "begin_time": "2023-03-23 22:06:51", "pass_rate": "52.38"}, {"success": 28, "all": 42, "fail": 14, "skip": 0, "error": 0, "runtime": "9.63 S", "begin_time": "2023-03-23 22:08:30", "pass_rate": "66.67"}, {"success": 18, "all": 42, "fail": 14, "skip": 0, "error": 10, "runtime": "8.46 S", "begin_time": "2023-03-23 22:11:10", "pass_rate": "42.86"}, {"success": 28, "all": 42, "fail": 14, "skip": 0, "error": 0, "runtime": "9.92 S", "begin_time": "2023-03-23 22:13:13", "pass_rate": "66.67"}, {"success": 36, "all": 53, "fail": 17, "skip": 0, "error": 0, "runtime": "11.08 S", "begin_time": "2023-03-24 11:49:04", "pass_rate": "67.92"}, {"success": 39, "all": 53, "fail": 14, "skip": 0, "error": 0, "runtime": "11.09 S", "begin_time": "2023-03-24 11:50:43", "pass_rate": "73.58"}, {"success": 29, "all": 53, "fail": 14, "skip": 0, "error": 10, "runtime": "10.99 S", "begin_time": "2023-03-24 13:02:00", "pass_rate": "54.72"}, {"success": 39, "all": 53, "fail": 14, "skip": 0, "error": 0, "runtime": "13.59 S", "begin_time": "2023-03-24 13:03:44", "pass_rate": "73.58"}, {"success": 45, "all": 59, "fail": 14, "skip": 0, "error": 0, "runtime": "14.34 S", "begin_time": "2023-03-24 19:33:01", "pass_rate": "76.27"}, {"success": 45, "all": 59, "fail": 14, "skip": 0, "error": 0, "runtime": "15.11 S", "begin_time": "2023-03-24 19:38:49", "pass_rate": "76.27"}]
+[
+  {
+    "success": 9,
+    "all": 13,
+    "fail": 4,
+    "skip": 0,
+    "error": 0,
+    "runtime": "1.78 S",
+    "begin_time": "2023-03-21 22:53:01",
+    "pass_rate": "69.23"
+  },
+  {
+    "success": 9,
+    "all": 13,
+    "fail": 4,
+    "skip": 0,
+    "error": 0,
+    "runtime": "1.48 S",
+    "begin_time": "2023-03-21 22:56:18",
+    "pass_rate": "69.23"
+  },
+  {
+    "success": 11,
+    "all": 13,
+    "fail": 2,
+    "skip": 0,
+    "error": 0,
+    "runtime": "1.51 S",
+    "begin_time": "2023-03-21 22:58:32",
+    "pass_rate": "84.62"
+  },
+  {
+    "success": 13,
+    "all": 13,
+    "fail": 0,
+    "skip": 0,
+    "error": 0,
+    "runtime": "1.53 S",
+    "begin_time": "2023-03-21 23:07:11",
+    "pass_rate": "100.00"
+  },
+  {
+    "success": 13,
+    "all": 13,
+    "fail": 0,
+    "skip": 0,
+    "error": 0,
+    "runtime": "1.40 S",
+    "begin_time": "2023-03-21 23:10:26",
+    "pass_rate": "100.00"
+  },
+  {
+    "success": 11,
+    "all": 22,
+    "fail": 10,
+    "skip": 0,
+    "error": 1,
+    "runtime": "2.51 S",
+    "begin_time": "2023-03-22 21:01:38",
+    "pass_rate": "50.00"
+  },
+  {
+    "success": 11,
+    "all": 22,
+    "fail": 10,
+    "skip": 0,
+    "error": 1,
+    "runtime": "2.44 S",
+    "begin_time": "2023-03-22 21:03:32",
+    "pass_rate": "50.00"
+  },
+  {
+    "success": 19,
+    "all": 22,
+    "fail": 2,
+    "skip": 0,
+    "error": 1,
+    "runtime": "2.44 S",
+    "begin_time": "2023-03-22 21:06:03",
+    "pass_rate": "86.36"
+  },
+  {
+    "success": 16,
+    "all": 22,
+    "fail": 5,
+    "skip": 0,
+    "error": 1,
+    "runtime": "2.50 S",
+    "begin_time": "2023-03-22 21:20:57",
+    "pass_rate": "72.73"
+  },
+  {
+    "success": 16,
+    "all": 30,
+    "fail": 5,
+    "skip": 0,
+    "error": 9,
+    "runtime": "2.44 S",
+    "begin_time": "2023-03-22 21:32:03",
+    "pass_rate": "53.33"
+  },
+  {
+    "success": 16,
+    "all": 30,
+    "fail": 5,
+    "skip": 0,
+    "error": 9,
+    "runtime": "3.41 S",
+    "begin_time": "2023-03-22 21:32:58",
+    "pass_rate": "53.33"
+  },
+  {
+    "success": 16,
+    "all": 30,
+    "fail": 5,
+    "skip": 0,
+    "error": 9,
+    "runtime": "3.51 S",
+    "begin_time": "2023-03-22 21:33:32",
+    "pass_rate": "53.33"
+  },
+  {
+    "success": 16,
+    "all": 30,
+    "fail": 5,
+    "skip": 0,
+    "error": 9,
+    "runtime": "3.41 S",
+    "begin_time": "2023-03-22 21:35:00",
+    "pass_rate": "53.33"
+  },
+  {
+    "success": 16,
+    "all": 30,
+    "fail": 14,
+    "skip": 0,
+    "error": 0,
+    "runtime": "3.48 S",
+    "begin_time": "2023-03-22 21:35:38",
+    "pass_rate": "53.33"
+  },
+  {
+    "success": 21,
+    "all": 30,
+    "fail": 9,
+    "skip": 0,
+    "error": 0,
+    "runtime": "3.41 S",
+    "begin_time": "2023-03-22 21:42:06",
+    "pass_rate": "70.00"
+  },
+  {
+    "success": 27,
+    "all": 42,
+    "fail": 14,
+    "skip": 0,
+    "error": 1,
+    "runtime": "4.93 S",
+    "begin_time": "2023-03-22 23:02:43",
+    "pass_rate": "64.29"
+  },
+  {
+    "success": 27,
+    "all": 42,
+    "fail": 14,
+    "skip": 0,
+    "error": 1,
+    "runtime": "4.94 S",
+    "begin_time": "2023-03-22 23:03:51",
+    "pass_rate": "64.29"
+  },
+  {
+    "success": 28,
+    "all": 42,
+    "fail": 14,
+    "skip": 0,
+    "error": 0,
+    "runtime": "4.89 S",
+    "begin_time": "2023-03-22 23:06:06",
+    "pass_rate": "66.67"
+  },
+  {
+    "success": 28,
+    "all": 42,
+    "fail": 14,
+    "skip": 0,
+    "error": 0,
+    "runtime": "7.92 S",
+    "begin_time": "2023-03-23 18:38:10",
+    "pass_rate": "66.67"
+  },
+  {
+    "success": 22,
+    "all": 42,
+    "fail": 20,
+    "skip": 0,
+    "error": 0,
+    "runtime": "9.57 S",
+    "begin_time": "2023-03-23 22:06:51",
+    "pass_rate": "52.38"
+  },
+  {
+    "success": 28,
+    "all": 42,
+    "fail": 14,
+    "skip": 0,
+    "error": 0,
+    "runtime": "9.63 S",
+    "begin_time": "2023-03-23 22:08:30",
+    "pass_rate": "66.67"
+  },
+  {
+    "success": 18,
+    "all": 42,
+    "fail": 14,
+    "skip": 0,
+    "error": 10,
+    "runtime": "8.46 S",
+    "begin_time": "2023-03-23 22:11:10",
+    "pass_rate": "42.86"
+  },
+  {
+    "success": 28,
+    "all": 42,
+    "fail": 14,
+    "skip": 0,
+    "error": 0,
+    "runtime": "9.92 S",
+    "begin_time": "2023-03-23 22:13:13",
+    "pass_rate": "66.67"
+  },
+  {
+    "success": 36,
+    "all": 53,
+    "fail": 17,
+    "skip": 0,
+    "error": 0,
+    "runtime": "11.08 S",
+    "begin_time": "2023-03-24 11:49:04",
+    "pass_rate": "67.92"
+  },
+  {
+    "success": 39,
+    "all": 53,
+    "fail": 14,
+    "skip": 0,
+    "error": 0,
+    "runtime": "11.09 S",
+    "begin_time": "2023-03-24 11:50:43",
+    "pass_rate": "73.58"
+  },
+  {
+    "success": 29,
+    "all": 53,
+    "fail": 14,
+    "skip": 0,
+    "error": 10,
+    "runtime": "10.99 S",
+    "begin_time": "2023-03-24 13:02:00",
+    "pass_rate": "54.72"
+  },
+  {
+    "success": 39,
+    "all": 53,
+    "fail": 14,
+    "skip": 0,
+    "error": 0,
+    "runtime": "13.59 S",
+    "begin_time": "2023-03-24 13:03:44",
+    "pass_rate": "73.58"
+  },
+  {
+    "success": 45,
+    "all": 59,
+    "fail": 14,
+    "skip": 0,
+    "error": 0,
+    "runtime": "14.34 S",
+    "begin_time": "2023-03-24 19:33:01",
+    "pass_rate": "76.27"
+  },
+  {
+    "success": 45,
+    "all": 59,
+    "fail": 14,
+    "skip": 0,
+    "error": 0,
+    "runtime": "15.11 S",
+    "begin_time": "2023-03-24 19:38:49",
+    "pass_rate": "76.27"
+  },
+  {
+    "success": 28,
+    "all": 44,
+    "fail": 14,
+    "skip": 0,
+    "error": 2,
+    "runtime": "9.68 S",
+    "begin_time": "2023-03-29 14:05:48",
+    "pass_rate": "63.64"
+  },
+  {
+    "success": 43,
+    "all": 59,
+    "fail": 15,
+    "skip": 0,
+    "error": 1,
+    "runtime": "15.41 S",
+    "begin_time": "2023-03-29 15:36:15",
+    "pass_rate": "72.88"
+  },
+  {
+    "success": 42,
+    "all": 59,
+    "fail": 15,
+    "skip": 0,
+    "error": 2,
+    "runtime": "16.86 S",
+    "begin_time": "2023-03-29 15:38:44",
+    "pass_rate": "71.19"
+  },
+  {
+    "success": 44,
+    "all": 59,
+    "fail": 15,
+    "skip": 0,
+    "error": 0,
+    "runtime": "19.55 S",
+    "begin_time": "2023-03-29 15:42:24",
+    "pass_rate": "74.58"
+  }
+]
