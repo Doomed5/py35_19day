@@ -1,7 +1,9 @@
 import os
 import unittest
+
 import requests
 from unittestreport import ddt, list_data
+
 from common.handle_conf import conf
 from common.handle_excel import HandleExcel
 from common.handle_path import DATA_DIR

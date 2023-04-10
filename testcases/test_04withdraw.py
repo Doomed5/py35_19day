@@ -4,12 +4,13 @@ import unittest
 import requests
 from jsonpath import jsonpath
 from unittestreport import ddt, list_data
+
 from common.handle_conf import conf
 from common.handle_excel import HandleExcel
+from common.handle_mysql import HandleDb
 from common.handle_path import DATA_DIR
 from common.handle_tools import replace_data
 from common.handler_log import my_log
-from common.handle_mysql import HandleDb
 
 
 @ddt

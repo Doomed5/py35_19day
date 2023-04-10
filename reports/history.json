@@ -328,5 +328,85 @@
     "runtime": "19.55 S",
     "begin_time": "2023-03-29 15:42:24",
     "pass_rate": "74.58"
+  },
+  {
+    "success": 46,
+    "all": 66,
+    "fail": 20,
+    "skip": 0,
+    "error": 0,
+    "runtime": "16.90 S",
+    "begin_time": "2023-04-10 16:13:25",
+    "pass_rate": "69.70"
+  },
+  {
+    "success": 47,
+    "all": 66,
+    "fail": 19,
+    "skip": 0,
+    "error": 0,
+    "runtime": "17.26 S",
+    "begin_time": "2023-04-10 16:17:06",
+    "pass_rate": "71.21"
+  },
+  {
+    "success": 48,
+    "all": 66,
+    "fail": 18,
+    "skip": 0,
+    "error": 0,
+    "runtime": "17.84 S",
+    "begin_time": "2023-04-10 16:19:59",
+    "pass_rate": "72.73"
+  },
+  {
+    "success": 48,
+    "all": 66,
+    "fail": 18,
+    "skip": 0,
+    "error": 0,
+    "runtime": "17.37 S",
+    "begin_time": "2023-04-10 16:22:24",
+    "pass_rate": "72.73"
+  },
+  {
+    "success": 48,
+    "all": 66,
+    "fail": 18,
+    "skip": 0,
+    "error": 0,
+    "runtime": "16.67 S",
+    "begin_time": "2023-04-10 16:27:57",
+    "pass_rate": "72.73"
+  },
+  {
+    "success": 47,
+    "all": 66,
+    "fail": 18,
+    "skip": 0,
+    "error": 1,
+    "runtime": "16.89 S",
+    "begin_time": "2023-04-10 16:45:17",
+    "pass_rate": "71.21"
+  },
+  {
+    "success": 48,
+    "all": 66,
+    "fail": 18,
+    "skip": 0,
+    "error": 0,
+    "runtime": "17.49 S",
+    "begin_time": "2023-04-10 16:47:17",
+    "pass_rate": "72.73"
+  },
+  {
+    "success": 48,
+    "all": 66,
+    "fail": 18,
+    "skip": 0,
+    "error": 0,
+    "runtime": "17.97 S",
+    "begin_time": "2023-04-10 16:49:50",
+    "pass_rate": "72.73"
   }
 ]
